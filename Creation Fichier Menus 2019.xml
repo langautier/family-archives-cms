@@ -1,0 +1,2631 @@
+<?xml version="1.0" standalone="no"?><contenu>
+<variables>
+<racineSite name="à">C:\Users\hdelangautier\Documents\Site Langautier</racineSite>
+<racineLocal>C:\Users\hdelangautier\OneDrive\Documents\Genealogie\Local pages</racineLocal>
+<nbjpgmax>10590</nbjpgmax>
+<nbimgmax>8583</nbimgmax>
+<nbthumbmax>6290</nbthumbmax>
+<nbpagesmax>275</nbpagesmax>
+<ListeDocOp>Tailleur\1915, </ListeDocOp>
+<FamilleNoop>Sommaire, Auriol Langautier, Coulon, Puybusque, Montlezun, Villemur, Pebernad de Langautier, Fortanier, Monsarrat, Najac, Rochas, Alfroy, Beaulieu, Picheran, Delgoffe, Sene, Debarle, Barberousse, Guillou, Boudeau, Espinasse, Heron, Graffin, de Bonne, Laperrine, Hautpoul, Lamarque, Alard, Castel, Lemayre, Martel, Delmas, Pigot, Sahuque, Testa, Paloque, Caussat, Rouis, Demarest, Jacquot, Jerome, Poulenc, Tailleur, Cabanat, Coderch, Ausseil, Merlat, Nicolas, </FamilleNoop>
+<frises>
+<frise ref="Poulenc\Accueil\FPa_180909-1304_02.html"/>
+<frise ref="Rouis\Accueil\F0_180814-2220_02.html"/>
+<frise ref="Paloque\Accueil\E11a_IntroNull_00.html"/>
+<frise ref="Demarest\Accueil\FMt_180923-1745_02.html"/>
+<frise ref="Alfroy\Accueil\aaaBA01a_IntroNul_101.html"/>
+<frise ref="Barberousse\Accueil\Bf0_180403-2138_2.html"/>
+<frise ref="Debarle\Louis\Be0_180403-2134_01.html"/>
+<frise ref="Picheran\Accueil\Bc0_180327-1447_0.html"/>
+<frise ref="Delgoffe\Accueil\Be0_180525-1337_01.html"/>
+<frise ref="Sene\Accueil\Ba_180925-0856_02.html"/>
+<frise ref="Cabanat\Accueil\GM0_180925-2215_00.html"/>
+<frise ref="Tailleur\Accueil\G0_180531-2214_010.html"/>
+<frise ref="Nicolas\Accueil\HM01a_Anais_00.html"/>
+<frise ref="Merlat\Accueil\H0_180927-2157_02.html"/>
+<frise ref="Merlat\Memoire\HMR_180601-0646_04.html"/>
+<frise ref="Alfroy\Charles Thomas 1\BA1_180521-0740_01.html"/>
+<frise ref="Alfroy\Charles Thomas\BA1_180520-1420_05.html"/>
+<frise ref="Graffin\Accueil\Cd0_181001-2154_2.html"/>
+<frise ref="Sommaire\Accueil\I0_180324-1056_08.html"/>
+<frise ref="Sommaire\Accueil\I0_180324-1056_09.html"/>
+<frise ref="Sommaire\Accueil\I0_180324-1056_11.html"/>
+<frise ref="Sommaire\Accueil\I0_180324-1056_13.html"/>
+<frise ref="Sommaire\Accueil\I0_180324-1056_140.html"/>
+<frise ref="Sommaire\Nobles\I31a_NoblesNull_002.html"/>
+<frise ref="Heron\Accueil\Cc0_181003-2103_2.html"/>
+<frise ref="Espinasse\Accueil\Cb01a_Intro_00.html"/>
+<frise ref="Guillou\Accueil\Ca0_181006-1950_3.html"/>
+<frise ref="de Bonne\Accueil\Dlm0_181007-1703_70.html"/>
+<frise ref="de Bonne\Accueil\Dlm0_181007-1703_700.html"/>
+<frise ref="de Bonne\Accueil\Dlm0_181007-1703_1.html"/>
+<frise ref="de Bonne\Accueil\Dlm0_181007-1655_03.html"/>
+<frise ref="Castel\Accueil\Dw_181009-2027_1.html"/>
+<frise ref="Lemayre\Accueil\Dg02_1644AchatDuneMaison_002.html"/>
+<frise ref="Testa\Accueil\Dt1a_Testa_00.html"/>
+<frise ref="Sahuque\Accueil\Ds1a_SahuqueNull_002.html"/>
+<frise ref="Sahuque\Accueil\Ds1a_SahuqueNull_0020.html"/>
+<frise ref="Pigot\Accueil\Dp1a_IntroPigotNull_002.html"/>
+<frise ref="Delmas\Accueil\Di_181014-1731_01.html"/>
+<frise ref="Delmas\Accueil\Di_181014-1731_010.html"/>
+<frise ref="Lamarque\Accueil\Dlm0_181016-1918_2.html"/>
+<frise ref="Lamarque\Accueil\Dlm0_181016-1918_30.html"/>
+<frise ref="Lamarque\Accueil\Dlm0_181016-1918_300.html"/>
+<frise ref="Hautpoul\Accueil\Dh_181022-2101_40.html"/>
+<frise ref="Laperrine\Accueil\DLp0_181023-0824_2.html"/>
+<frise ref="Alard\Accueil\Da1a_AlardNull_002.html"/>
+<frise ref="Sommaire\Accueil\I0_180324-1056_12.html"/>
+<frise ref="Auriol Langautier\Arnaud\AAG1a_EnDeuxMotsArnaud_002.html"/>
+<frise ref="Pebernad de Langautier\Accueil\Al2_181026-1301_2.html"/>
+<frise ref="Pebernad de Langautier\Bernard\Al91a_DeuxMotsNull_002.html"/>
+<frise ref="Pebernad de Langautier\Guillaume\Ali1a_DeuxMotsNull_002.html"/>
+<frise ref="Pebernad de Langautier\JeanPierre\Alj1a_DeuxMotsNull_002.html"/>
+<frise ref="Pebernad de Langautier\PierreGermainAntoine\All1a_PierreGermain_004.html"/>
+<frise ref="Pebernad de Langautier\PierreGermain\Alg1a_DeuxMots_008.html"/>
+<frise ref="Sommaire\Accueil\I0_180324-1056_14.html"/>
+<frise ref="Pebernad de Langautier\Georges\Aln1a_DeuxMotsNull_002.html"/>
+<frise ref="Pebernad de Langautier\Jean\Alh1a_JeanPebernad_002.html"/>
+<frise ref="Auriol Langautier\Accueil\AA01a_IntroAuriolNull_0020.html"/>
+<frise ref="Coulon\Accueil\AB0_181025-1911_02.html"/>
+<frise ref="Puybusque\Accueil\AC0_181025-2101_30.html"/>
+<frise ref="Montlezun\Accueil\AD01g_RouxMontlezunNull_0020.html"/>
+<frise ref="Fortanier\Accueil\Af_181026-2127_01.html"/>
+<frise ref="Martel\Accueil\Dm_181117-1846_02.html"/>
+<frise ref="Sommaire\Entrepreneurs\I4_181116-2138_2.html"/>
+<frise ref="Ausseil\Accueil\aQ1c_190105-1601_1.html"/>
+<frise ref="Coderch\Accueil\W1o_190119-1809_011.html"/></frises>
+</variables>
+<menus>
+<body-class>page-portfolio</body-class>
+<section-class>topspace</section-class>
+<divcontainer-class>container</divcontainer-class>
+<menu>
+<famillemenu>Home</famillemenu>
+<color>#E2772B DeepSkyBlue Navy Color</color>
+<prefix>I</prefix>
+<niv0>
+<libniv0>Sommaire</libniv0>
+<famille>Sommaire</famille>
+<niv1>
+<rep>Accueil</rep>
+<lib>Accueil</lib>
+<lien>../../index.htm</lien>
+<titre>Histoire de chaque jour</titre>
+<miseajour><note><date>2018-11-18</date><content>Refonte des pages Occupations et création de la page Marchands drappiers.</content></note><note><date>2018-10-26</date><content>Mise en place des frises à tiroir et de ce fil de révision en début de chaque page.</content></note><note><date>2018-05-29</date><content>Mise à jour des pages Alfroy à l'occasion de la mise en place des frises par ménage avec commentaire</content></note><note><date>2009-03-11</date><content>Début de la création de ce site avec les premières pages Alfroy</content></note><note><date>2008-11-18</date><content>Fin de la transcription des lettres de Casimir de Bonne en Word</content></note></miseajour>
+<prefix>I0</prefix>
+</niv1>
+<niv1>
+<rep>Contact</rep>
+<lib>Contact</lib>
+<titre>Qui sommes nous ?</titre>
+<miseajour>2015-07-14</miseajour>
+<prefix>J0</prefix>
+<linkto>Paloque\Bertrix, Pebernad de Langautier\Accueil, de Bonne\Accueil, Hautpoul\Accueil, Auriol Langautier\Accueil, Testa\Accueil, Montlezun\Accueil, Merlat\Memoire, Guillou\AlbumRobert</linkto>
+</niv1>
+<niv1>
+<rep>PlanDuSite</rep>
+<lib>Plan du site</lib>
+<titre>Le plan du site</titre>
+<miseajour>2019-09-29</miseajour>
+<prefix>I6</prefix>
+</niv1>
+<niv1>
+<glyphicon>lock</glyphicon>
+<rep>Pages locales</rep>
+<lib>Pages locales</lib>
+<titre>Travaux en cours</titre>
+<miseajour>2019-10-05</miseajour>
+<prefix>If</prefix>
+</niv1>
+<niv1>
+<rep>Occupations</rep>
+<lib>Occupations</lib>
+<titre>Les parcours dont nous sommes faits</titre>
+<miseajour><note><date>2018-11-03</date><content>Refonte de la page à l'occasion de l'introduction des frises à tiroir</content></note><note><date>2011-10-28</date><content>Création de la page</content></note></miseajour>
+<prefix>I2</prefix>
+<niv2>
+<rep>Nobles</rep>
+<lib>Les nobles</lib>
+<titre>Les nobles</titre>
+<miseajour>2011-11-15</miseajour>
+<prefix>I3</prefix>
+</niv2>
+<niv2>
+<rep>Entrepreneurs</rep>
+<lib>Marchands drappiers</lib>
+<titre>Marchands drappiers</titre>
+<miseajour><note><date>2018-11-17</date><content>Refonte de la page à l'occasion de la création de la frise à tiroir</content></note><note><date>2011-11-15</date><content>Création de la page</content></note></miseajour>
+<prefix>I4</prefix>
+</niv2>
+<niv2>
+<rep>Militaires</rep>
+<lib>Les militaires</lib>
+<titre>Les militaires</titre>
+<miseajour>2011-11-15</miseajour>
+<prefix>I5</prefix>
+</niv2>
+<niv2>
+<rep>Revenus</rep>
+<lib>Les revenus</lib>
+<titre>Les revenus</titre>
+<miseajour>2012-05-01</miseajour>
+<prefix>I7</prefix>
+<linkto>Auriol Langautier\Pierre, Pebernad de Langautier\PierreGermain, Collateraux\Bojat, Rouis\Antoine, Pebernad de Langautier\PierreGermainAntoine, Auriol Langautier\JeanPierre, Pebernad de Langautier\Jean, Pebernad de Langautier\Jeannette, Guillou\FrMariage, Rouis\Gilles, Demarest\Accueil, Tailleur\LouisGregoire, Pebernad de Langautier\PartageHenriette, Guillou\FrDonation, Guillou\AuPartage</linkto>
+</niv2>
+</niv1>
+<niv1>
+<rep>Collateraux</rep>
+<lib>Collatéraux</lib>
+<titre>Collatéraux</titre>
+<miseajour>2018-03-18</miseajour>
+<prefix>Ih</prefix>
+<niv2>
+<rep>FondAuriol</rep>
+<lib>Lauragais</lib>
+<titre>Archives Lauragais</titre>
+<miseajour>2013-10-01</miseajour>
+<prefix>Kd</prefix>
+</niv2>
+<niv2>
+<rep>Cales</rep>
+<lib>Calès</lib>
+<titre>Archives Calès</titre>
+<miseajour>2012-10-28</miseajour>
+<prefix>Kb</prefix>
+</niv2>
+<niv2>
+<rep>Bojat</rep>
+<lib>Bojat</lib>
+<titre>Archives Bojat</titre>
+<miseajour>2013-09-28</miseajour>
+<prefix>AD1</prefix>
+</niv2>
+<niv2>
+<rep>HamardParpigne</rep>
+<lib>de Parpigné</lib>
+<titre>Paul de Parpigné et Valentine Séné</titre>
+<miseajour>2017-03-21</miseajour>
+<prefix>Bg0</prefix>
+</niv2>
+<niv2>
+<rep>Maraval</rep>
+<lib>Maraval</lib>
+<titre>Communication Maraval</titre>
+<miseajour><note><date>2020-01-18</date><content>Suppression de deux phrases jugées inexactes.</content></note><note><date>2015-01-22</date><content>Création de la page</content></note></miseajour>
+<prefix>AD2</prefix>
+</niv2>
+<niv2>
+<rep>Salaman</rep>
+<lib>Claire Salaman</lib>
+<titre>Mes souvenirs par Claire Salaman</titre>
+<miseajour><note><date>2019-02-23</date><content>Ajout du récit de la mort de Charles retrouvé par Béné à Rieucros</content></note><note><date>2015-10-06</date><content>Création de la page</content></note></miseajour>
+<prefix>Ie</prefix>
+</niv2>
+
+<niv2>
+<glyphicon>lock</glyphicon>
+<rep>Guittou</rep>
+<lib>Jean Guittou</lib>
+<titre>Jean Guittou</titre>
+<miseajour>
+<note>
+<date>2018-10-02</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Ii</prefix>
+</niv2>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>Auriol</famillemenu>
+<color>#EACEF1 Fuchsia MediumOrchid Color</color>
+<prefix>A</prefix>
+<niv0>
+<libniv0>Auriol Langautier</libniv0>
+<famille>Auriol Langautier</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Auriol Langautier</lib>
+<titre>Auriol Langautier</titre>
+<miseajour><note><date>2018-10-24</date><content>Refonte de la page à l'occasion de l'introduction de la frise à tiroir</content></note><note><date>2013-12-02</date><content>Création de la page</content></note></miseajour>
+<prefix>AA0</prefix>
+<niv2>
+<rep>HistoireAutour</rep>
+<lib>L'histoire autour</lib>
+<titre>L'histoire autour de nos Auriol</titre>
+<miseajour><note><date>2018-11-10</date><content>Refonte de la page pour plus de clarté</content></note><note><date>2014-02-25</date><content>Création de la page</content></note></miseajour>
+<prefix>AAi</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Guillaume</rep>
+<lib>Guillaume</lib>
+<titre>Guillaume Auriol</titre>
+<miseajour><note><date>2018-11-10</date><content>Refonte du texte</content></note><note><date>2014-05-01</date><content>Création de la page</content></note></miseajour>
+<prefix>AAe</prefix>
+</niv1>
+<niv1>
+<rep>Arnaud</rep>
+<lib>Arnaud et Bernarde Blanque</lib>
+<titre>Arnaud et Bernarde Blanque</titre>
+<miseajour><note><date>2018-11-10</date><content>Corrections et ajustements</content></note><note><date>2014-05-01</date><content>Création de la page</content></note></miseajour>
+<prefix>AAG</prefix>
+</niv1>
+<niv1>
+<rep>Jean</rep>
+<lib>Jean et Berthoumine Heillie</lib>
+<titre>Jean et Berthoumine Heillie</titre>
+<miseajour><note><date>2018-11-20</date><content>Ajout des documents envoyés par Laurent Souef en septembre 2016 - je sais, j'ai trainé, en fait, je les avais même oubliés</content></note><note><date>2014-05-01</date><content>Création de la page</content></note></miseajour>
+<prefix>AAE</prefix>
+</niv1>
+<niv1>
+<rep>Bertrand</rep>
+<lib>Bertrand et Jeanne Ducrosse</lib>
+<titre>Bertrand et Jeanne Ducrosse</titre>
+<miseajour>2014-05-01</miseajour>
+<prefix>AAH</prefix>
+</niv1>
+<niv1>
+<rep>Pierre</rep>
+<lib>Pierre et Guilhette Estaudier</lib>
+<titre>Pierre et Guilhette Estaudier</titre>
+<miseajour>2014-05-01</miseajour>
+<prefix>AAF</prefix>
+<linkto>Auriol Langautier\Jacques, Auriol Langautier\Francois</linkto>
+<niv2>
+<rep>Jean2</rep>
+<lib>Jean</lib>
+<titre>Jean, frère et associé</titre>
+<miseajour>2013-03-27</miseajour>
+<prefix>AAJ</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Jacques</rep>
+<lib>Jacques et Jeanne de Tiron</lib>
+<titre>Jacques et Jeanne de Tiron</titre>
+<miseajour>2014-05-01</miseajour>
+<prefix>AA1</prefix>
+<linkto>Auriol Langautier\JeanPierre</linkto>
+<niv2>
+<rep>Francois</rep>
+<lib>François</lib>
+<titre>François, frère et associé</titre>
+<miseajour>2014-05-01</miseajour>
+<prefix>AAK</prefix>
+<linkto>Auriol Langautier\Raymond</linkto>
+</niv2>
+<niv2>
+<rep>Theodore</rep>
+<lib>Soeurs</lib>
+<titre>Accueil froid pour Marie de Puybusque</titre>
+<miseajour>2014-02-12</miseajour>
+<prefix>AA4</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>JeanPierre</rep>
+<lib>Jean-Pierre et Marie de Puybusque</lib>
+<titre>Jean-Pierre et Marie de Puybusque</titre>
+<miseajour>2014-05-01</miseajour>
+<prefix>AAB</prefix>
+<linkto>Auriol Langautier\JeanPierreSn, Puybusque\Accueil, Auriol Langautier\Francois2, Auriol Langautier\Jeanne, Auriol Langautier\Joseph, Auriol Langautier\Augustin, Auriol Langautier\Gertrude, Auriol Langautier\Francoise, Coulon\Accueil, Auriol Langautier\Therese, Auriol Langautier\Henriette</linkto>
+<niv2>
+<rep>Jeanne</rep>
+<lib>Jeanne</lib>
+<titre>Jeanne</titre>
+<miseajour>2013-10-02</miseajour>
+<prefix>AAS</prefix>
+</niv2>
+<niv2>
+<rep>Francois2</rep>
+<lib>Frères</lib>
+<titre>André, Charles, François et Jacques</titre>
+<miseajour>2013-11-22</miseajour>
+<prefix>AA5</prefix>
+<linkto>Auriol Langautier\JeanPierre</linkto>
+</niv2>
+<niv2>
+<rep>Augustin</rep>
+<lib>Augustin</lib>
+<titre>Augustin, prêtre à Fenouillet</titre>
+<miseajour>2013-10-18</miseajour>
+<prefix>AAR</prefix>
+</niv2>
+<niv2>
+<rep>Gertrude</rep>
+<lib>Gertrude</lib>
+<titre>Gertrude</titre>
+<miseajour>2013-11-22</miseajour>
+<prefix>AA2</prefix>
+</niv2>
+<niv2>
+<rep>Francoise</rep>
+<lib>Françoise</lib>
+<titre>Françoise, 1729-1801 à Langautier</titre>
+<miseajour>2013-11-22</miseajour>
+<prefix>AA3</prefix>
+</niv2>
+<niv2>
+<rep>MarieAnne</rep>
+<lib>Marie-Anne</lib>
+<titre>Marie-Anne et Simon Coulon</titre>
+<miseajour>2013-09-07</miseajour>
+<prefix>AAM</prefix>
+<linkto>Coulon\Accueil, Auriol Langautier\Antoine</linkto>
+</niv2>
+<niv2>
+<rep>Therese</rep>
+<lib>Thérèse</lib>
+<titre>Thérèse</titre>
+<miseajour>2014-01-04</miseajour>
+<prefix>AAR</prefix>
+</niv2>
+<niv2>
+<rep>Henriette</rep>
+<lib>Henriette</lib>
+<titre>Henriette</titre>
+<miseajour>2014-01-06</miseajour>
+<prefix>AAL</prefix>
+</niv2>
+<niv2>
+<rep>Noblesse</rep>
+<lib>Auriol médiéval</lib>
+<titre>Filiation Auriol de Saint Papoul ?</titre>
+<miseajour>2014-01-27</miseajour>
+<prefix>AAc</prefix>
+</niv2>
+<niv2>
+<rep>TerreNoble</rep>
+<lib>Langautier terre noble</lib>
+<titre>Langautier fief noble ?</titre>
+<miseajour>2014-01-27</miseajour>
+<prefix>AAh</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Joseph</rep>
+<lib>Joseph et Marguerite de Montlezun</lib>
+<titre>Joseph et Marie Marguerite de Montlezun</titre>
+<miseajour>2013-09-12</miseajour>
+<prefix>AAC</prefix>
+<linkto>Auriol Langautier\Philibert, Auriol Langautier\JosephFils, Auriol Langautier\Antoine, Auriol Langautier\VictoireSoeur, Auriol Langautier\Roux, Montlezun\Accueil, Auriol Langautier\JeanPierreSn</linkto>
+<niv2>
+<rep>Raymond</rep>
+<lib>Raymond</lib>
+<titre>Raymond, l'oncle à héritage</titre>
+<miseajour>2014-05-07</miseajour>
+<prefix>AAP</prefix>
+<linkto>Auriol Langautier\Francois</linkto>
+</niv2>
+<niv2>
+<rep>Philibert</rep>
+<lib>Philibert</lib>
+<titre>Philibert, militaire</titre>
+<miseajour>2013-12-07</miseajour>
+<prefix>AAd</prefix>
+</niv2>
+<niv2>
+<rep>JosephFils</rep>
+<lib>Joseph</lib>
+<titre>Joseph fils, militaire et émigré</titre>
+<miseajour>2013-09-19</miseajour>
+<prefix>AAQ</prefix>
+<linkto>Auriol Langautier\JosephEmigr, Collateraux\Bojat, Pebernad de Langautier\JeanPierre</linkto>
+</niv2>
+<niv2>
+<rep>JeanPierreSn</rep>
+<lib>Joseph contre son père</lib>
+<titre>Procès de Joseph-fils contre Joseph son père</titre>
+<miseajour>2013-11-24</miseajour>
+<prefix>AAA</prefix>
+<linkto>Auriol Langautier\JeanPierre, Auriol Langautier\Joseph</linkto>
+</niv2>
+<niv2>
+<rep>JosephLahitte</rep>
+<lib>Joseph à Lahitte</lib>
+<titre>Démélés de Joseph à Lahitte</titre>
+<miseajour>2013-12-07</miseajour>
+<prefix>AAf</prefix>
+</niv2>
+<niv2>
+<rep>JosephEmigr</rep>
+<lib>Joseph émigré</lib>
+<titre>Démélés de Joseph avec son émigration</titre>
+<miseajour>2013-12-06</miseajour>
+<prefix>AAb</prefix>
+<linkto>Auriol Langautier\JosephFils</linkto>
+</niv2>
+<niv2>
+<rep>VictoireSoeur</rep>
+<lib>Victoire</lib>
+<titre>Victoire, la sœur cadette</titre>
+<miseajour>2013-12-11</miseajour>
+<prefix>AAa</prefix>
+<linkto>Auriol Langautier\JosephFils</linkto>
+</niv2>
+</niv1>
+<niv1>
+<rep>Antoine</rep>
+<lib>Antoine et Victoire Coulon</lib>
+<titre>Antoine et Victoire Coulon</titre>
+<miseajour>2014-05-01</miseajour>
+<prefix>AA6</prefix>
+<linkto>Auriol Langautier\Roux, Coulon\Accueil, Pebernad de Langautier\JeanPierre, Auriol Langautier\Cercanceaux, Auriol Langautier\Verfeil, Auriol Langautier\Commissaire, Auriol Langautier\Joseph</linkto>
+<niv2>
+<rep>Cercanceaux</rep>
+<lib>Charivari à Cercanceaux</lib>
+<titre>Charivaris à Cercanceaux</titre>
+<miseajour>2011-04-24</miseajour>
+<prefix>AA7</prefix>
+<linkto>Coulon\Accueil, Auriol Langautier\Antoine, Divers\Nobles</linkto>
+</niv2>
+<niv2>
+<rep>Verfeil</rep>
+<lib>Agent de la terreur</lib>
+<titre>Agent de la terreur à Verfeil</titre>
+<miseajour>2014-08-07</miseajour>
+<prefix>AA9</prefix>
+<linkto>Auriol Langautier\Roux, Auriol Langautier\Antoine</linkto>
+</niv2>
+<niv2>
+<rep>Commissaire</rep>
+<lib>Commissaire</lib>
+<titre>Commissaire politique</titre>
+<miseajour>2013-12-11</miseajour>
+<prefix>AAg</prefix>
+<linkto>Auriol Langautier\Antoine</linkto>
+</niv2>
+<niv2>
+<rep>Roux</rep>
+<lib>Société militaire</lib>
+<titre>Société militaire, société civile</titre>
+<miseajour>2011-04-24</miseajour>
+<prefix>AA8</prefix>
+<linkto>Auriol Langautier\Antoine, Auriol Langautier\Verfeil</linkto>
+</niv2>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Coulon</libniv0>
+<famille>Coulon</famille>
+<fildariane>Pebernad de Langautier/Auriol Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Simon et Marie-Anne Auriol-Langautier</lib>
+<titre>Simon Coulon</titre>
+<miseajour>2016-01-24</miseajour>
+<prefix>AB0</prefix>
+<linkto>Auriol Langautier\Cercanceaux, Auriol Langautier\Antoine</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Puybusque</libniv0>
+<famille>Puybusque</famille>
+<fildariane>Pebernad de Langautier/Auriol Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Puybusque</lib>
+<titre>Maison Puybusque</titre>
+<miseajour><note><date>2018-10-25</date><content>Ajout de la dédicace</content></note><note><date>2011-09-27</date><content>Création de la page</content></note></miseajour>
+<prefix>AC0</prefix>
+<linkto>Auriol Langautier\Roux, Auriol Langautier\JeanPierre</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Montlezun</libniv0>
+<famille>Montlezun</famille>
+<fildariane>Pebernad de Langautier/Auriol Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Montlezun</lib>
+<titre>Maison Montlezun</titre>
+<miseajour>2013-08-06</miseajour>
+<prefix>AD0</prefix>
+<linkto>Auriol Langautier\Roux, Auriol Langautier\Joseph, Auriol Langautier\Accueil</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Villemur</libniv0>
+<famille>Villemur</famille>
+<fildariane>Pebernad de Langautier/Auriol Langautier/Montlezun</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Villemur</lib>
+<titre>Maison Villemur</titre>
+<miseajour>2011-09-16</miseajour>
+<prefix>AE0</prefix>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>Pebernad</famillemenu>
+<color>#F3E0F3 Magenta DarkMagenta Color</color>
+<prefix>P</prefix>
+<niv0>
+<libniv0>Pebernad de Langautier</libniv0>
+<famille>Pebernad de Langautier</famille>
+<niv1>
+<rep>Accueil</rep>
+<lib>Pebernad de Langautier</lib>
+<titre>Pebernad</titre>
+<miseajour><note><date>2018-10-30</date><content>Refonte de la page à l'occasion de l'introduction de la frise à tiroir</content></note><note><date>2015-02-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Al2</prefix>
+<linkto>Pebernad de Langautier\Georges, Pebernad de Langautier\Bernard, Pebernad de Langautier\Guillaume, Pebernad de Langautier\PierreGermain, Pebernad de Langautier\Jean, Pebernad de Langautier\PierreGermainAntoine, Pebernad de Langautier\JeanPierre, Pebernad de Langautier\Jules, Pebernad de Langautier\Albert, Pebernad de Langautier\Particule, Pebernad de Langautier\Louis</linkto>
+</niv1>
+<niv1>
+<rep>Georges</rep>
+<lib>Georges et Claire Bertran</lib>
+<titre>Georges et Claire Bertran</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Aln</prefix>
+<linkto>Pebernad de Langautier\Bernard</linkto>
+</niv1>
+<niv1>
+<rep>Bernard</rep>
+<lib>Bernard et Marguerite Jamme</lib>
+<titre>Bernard et Marguerite Jamme</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Al9</prefix>
+<linkto>Pebernad de Langautier\Guillaume</linkto>
+<niv2>
+<rep>Jeanne</rep>
+<lib>Jeanne et Guillaume Escudie</lib>
+<titre>Jeanne et Guillaume Escudie</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Al7</prefix>
+</niv2>
+<niv2>
+<rep>Marguerite</rep>
+<lib>Marguerite et Pierre Mijoule</lib>
+<titre>Marguerite et Pierre Mijoule</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Alb</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Guillaume</rep>
+<lib>Guillaume et Dominique Fortanier</lib>
+<titre>Guillaume et Dominique Fortanier</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Ali</prefix>
+<linkto>Fortanier\Accueil, Pebernad de Langautier\PierreGermain</linkto>
+<niv2>
+<rep>Catherine</rep>
+<lib>Catherine et Bertrand Bertran</lib>
+<titre>Catherine et Bertrand Bertran</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Al8</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>PierreGermain</rep>
+<lib>Pierre-Germain et Toinette Bouscatel</lib>
+<titre>Pierre Germain et Antoinette Bouscatel</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Alg</prefix>
+<linkto>Pebernad de Langautier\Jean, Pebernad de Langautier\Antoine, Pebernad de Langautier\Jeannette</linkto>
+<niv2>
+<rep>Antoine</rep>
+<lib>Antoine</lib>
+<titre>Antoine, juge à Lagardiolle</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Al9</prefix>
+</niv2>
+<niv2>
+<rep>Jeannette</rep>
+<lib>Jeannette et Jean Grave</lib>
+<titre>Jeannette et Jean Grave</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Alk</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Jean</rep>
+<lib>Jean et Marie Najac</lib>
+<titre>Jean et Marie Najac</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Alh</prefix>
+<linkto>Najac\Accueil, Pebernad de Langautier\PierreGermainAntoine</linkto>
+</niv1>
+<niv1>
+<rep>PierreGermainAntoine</rep>
+<lib>Antoine et Marie Monsarrat</lib>
+<titre>Antoine et Marie Monsarrat</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>All</prefix>
+<niv2>
+<rep>Pierre</rep>
+<lib>Pierre</lib>
+<titre>Pierre, notaire</titre>
+<miseajour>2015-03-29</miseajour>
+<prefix>Pa</prefix>
+<linkto>Pebernad de Langautier\JeanPierre</linkto>
+</niv2>
+<niv2>
+<rep>Isidore</rep>
+<lib>Isidore</lib>
+<titre>Une carrière d'officier dans l'armée</titre>
+<miseajour>2015-02-23</miseajour>
+<prefix>Alm</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>JeanPierre</rep>
+<lib>Jean-Pierre et Henriette Auriol Langautier</lib>
+<titre>Jean-Pierre et Henriette Auriol-Langautier</titre>
+<miseajour>2015-03-29</miseajour>
+<prefix>Alj</prefix>
+<linkto>Auriol Langautier\Antoine, Auriol Langautier\JosephFils, Pebernad de Langautier\Pierre, Pebernad de Langautier\PartageHenriette, Pebernad de Langautier\Jules</linkto>
+<niv2>
+<rep>PartageHenriette</rep>
+<lib>Succession</lib>
+<titre>1838, Successions</titre>
+<miseajour>2015-03-29</miseajour>
+<prefix>Al6</prefix>
+<linkto>Pebernad de Langautier\JeanPierre</linkto>
+</niv2>
+</niv1>
+<niv1>
+<rep>Jules</rep>
+<lib>Jules et Félicie Olivier</lib>
+<titre>Jules et Félicie Olivier</titre>
+<miseajour>2011-05-17</miseajour>
+<prefix>Ala</prefix>
+<niv2>
+<rep>DossierJules</rep>
+<lib>Victime</lib>
+<titre>Victime du coup d'état de 1851</titre>
+<miseajour>2011-05-17</miseajour>
+<prefix>Alf</prefix>
+<linkto>Pebernad de Langautier\Marcellin</linkto>
+</niv2>
+<niv2>
+<rep>Marcellin</rep>
+<lib>Marcellin</lib>
+<titre>Marcellin, le frère préfet</titre>
+<miseajour>
+<note>
+<date>2018-09-09</date>
+<content>Revue de la mise en forme</content>
+</note>
+<note>
+<date>2012-01-18</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Ald</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Albert</rep>
+<lib>Albert et Louise Rochas</lib>
+<titre>Albert et Louise Rochas</titre>
+<miseajour><note><date>2019-03-29</date><content>Redimensionnement des images</content></note><note><date>2018-09-09</date><content>Compléments sur le texte, redimensionnement des images</content></note><note><date>2017-05-22</date><content>Dernière modification</content></note></miseajour>
+<prefix>Alc</prefix>
+<niv2>
+<rep>VF</rep>
+<lib>Amis et relations</lib>
+<titre>Amis et relations</titre>
+<miseajour><note><date>2019-03-31</date><content>Redimensionnement des images</content></note><note><date>2018-09-09</date><content>Redimensionnement des images</content></note><note><date>2016-01-19</date><content>Dernière modification</content></note></miseajour>
+<prefix>Alv</prefix>
+</niv2>
+<niv2>
+<rep>Particule</rep>
+<lib>Anoblissement</lib>
+<titre>Anoblissement au second Empire</titre>
+<miseajour>2012-01-18</miseajour>
+<prefix>Ale</prefix>
+</niv2>
+<niv2>
+<rep>Jeanne1</rep>
+<lib>Jeanne</lib>
+<titre>Jeanne</titre>
+<miseajour><note><date>2019-03-31</date><content>Redimensionnement des images</content></note><note><date>2017-05-21</date><content>Création de la page</content></note></miseajour>
+<prefix>Pb</prefix>
+</niv2>
+<niv2>
+<rep>Denise</rep>
+<lib>Denise</lib>
+<titre>Denise</titre>
+<miseajour>2018-03-10</miseajour>
+<prefix>Pc</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Menage</rep>
+<lib>Louis et Geneviève Alfroy</lib>
+<titre>Louis et Geneviève Alfroy</titre>
+<miseajour><note><date>2019-05-18</date><content>Mise en page des images et ajout du tecte</content></note><note><date>2017-09-10</date><content>Création de la page</content></note></miseajour>
+<prefix>Pd</prefix>
+<niv2>
+<rep>Louis</rep>
+<lib>1900</lib>
+<titre>Les années de jeunesse</titre>
+<miseajour><note><date>2019-05-19</date><content>Refonte de la page et ajout de la photo du tableau d'Aubry</content></note><note><date>2017-05-21</date><content>Création de la page</content></note></miseajour>
+<prefix>ALo</prefix>
+</niv2>
+<niv2>
+<rep>Villefranche</rep>
+<lib>Villefranche</lib>
+<titre>Villefranche de Lauragais vers 1900</titre>
+<miseajour>2017-05-02</miseajour>
+<prefix>Ka</prefix>
+</niv2>
+<niv2>
+<rep>Madagascar</rep>
+<lib>Madagascar</lib>
+<titre>Chercheur d'or - Madagascar, 1908</titre>
+<miseajour>
+<note>
+<date>2018-08-31</date>
+<content>Redimensionnement des images</content>
+</note>
+<note>
+<date>2017-07-13</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>ALm</prefix>
+</niv2>
+<niv2>
+<rep>Aubry</rep>
+<lib>Aubry</lib>
+<titre>Amitié avec Emile Aubry</titre>
+<miseajour><note><date>2019-05-08</date><content>Redimensionnement des images et revue du texte</content></note><note><date>2017-03-19</date><content>Création de la page</content></note></miseajour>
+<prefix>ALb</prefix>
+</niv2>
+<niv2>
+<rep>OfficierReserve</rep>
+<lib>Réserviste</lib>
+<titre>Officier de réserve</titre>
+<miseajour><note><date>2019-05-08</date><content>Mise à jour à l'occasion de la refonte des pages de Louis</content></note><note><date>2017-03-19</date><content>Création de la page</content></note></miseajour>
+<prefix>Al0</prefix>
+</niv2>
+<niv2>
+<rep>Louis14</rep>
+<lib>1914</lib>
+<titre>Journal 1914</titre>
+<miseajour><note><date>2019-04-05</date><content>Redimensionnement des images</content></note><note><date>2017-02-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Aj14</prefix>
+</niv2>
+<niv2>
+<rep>Louis15</rep>
+<lib>1915</lib>
+<titre>Journal 1915</titre>
+<miseajour><note><date>2019-04-06</date><content>Redimensionnement des images</content></note><note><date>2017-02-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Aj15</prefix>
+</niv2>
+<niv2>
+<rep>Louis16</rep>
+<lib>1916</lib>
+<titre>Journal 1916</titre>
+<miseajour><note><date>2019-04-06</date><content>Redimensionnement des images</content></note><note><date>2017-02-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Aj16</prefix>
+</niv2>
+<niv2>
+<rep>Louis17</rep>
+<lib>1917</lib>
+<titre>Journal 1917</titre>
+<miseajour><note><date>2019-04-06</date><content>Redimensionnement des images</content></note><note><date>2018-08-31</date><content>Redimensionnement des images</content></note><note><date>2016-09-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Aj17</prefix>
+</niv2>
+<niv2>
+<rep>Louis18</rep>
+<lib>1918</lib>
+<titre>Journal 1918</titre>
+<miseajour><note><date>2019-04-06</date><content>Redimensionnement des images</content></note><note><date>2017-02-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Aj18</prefix>
+</niv2>
+<niv2>
+<rep>Louis19</rep>
+<lib>1919</lib>
+<titre>Journal 1919</titre>
+<miseajour><note><date>2019-04-06</date><content>Redimensionnement des images</content></note><note><date>2017-02-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Aj19</prefix>
+</niv2>
+<niv2>
+<rep>LesVoutes</rep>
+<lib>Album 35-45</lib>
+<titre>Album 35-45</titre>
+<miseajour>2019-05-22</miseajour>
+<prefix>Pe</prefix>
+</niv2>
+</niv1>
+<niv1>
+<glyphicon>lock</glyphicon>
+<rep>JeanEmile</rep>
+<lib>Jean et Annie Guillou</lib>
+<titre>Jean et Annie Guillou</titre>
+<miseajour>2017-09-18</miseajour>
+<prefix>Ph</prefix>
+<niv2>
+<glyphicon>lock</glyphicon>
+<rep>JeanAnnie1947-1955</rep>
+<lib>Album 46-55</lib>
+<titre>Album 46-55</titre>
+<miseajour>2017-08-27</miseajour>
+<prefix>Pf</prefix>
+</niv2>
+<niv2>
+<glyphicon>lock</glyphicon>
+<rep>JeanAnnie1956-1981</rep>
+<lib>Album 56-81</lib>
+<titre>Jean et Annie</titre>
+<miseajour>2017-08-29</miseajour>
+<prefix>Pg</prefix>
+</niv2>
+<niv2>
+<glyphicon>lock</glyphicon>
+<rep>HenryOncle</rep>
+<lib>Oncle Henri</lib>
+<titre>Oncle Henry</titre>
+<miseajour>2017-09-03</miseajour>
+<prefix>Cb</prefix>
+</niv2>
+</niv1>
+<niv1>
+<glyphicon>lock</glyphicon>
+<rep>Francois</rep>
+<lib>Francois</lib>
+<titre>Francois</titre>
+<miseajour>2019-05-12</miseajour>
+<prefix>Z1o</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Fortanier</libniv0>
+<famille>Fortanier</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Fortanier</lib>
+<titre>Fortanier, juristes</titre>
+<miseajour>2015-01-29</miseajour>
+<prefix>Af</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Monsarrat</libniv0>
+<famille>Monsarrat</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Monsarrat</lib>
+<titre>Monsarrat</titre>
+<miseajour>2015-02-01</miseajour>
+<prefix>Am</prefix>
+<linkto>Pebernad de Langautier\PierreGermainAntoine</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Najac</libniv0>
+<famille>Najac</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>de Najac</lib>
+<titre>Najac</titre>
+<miseajour>2015-02-01</miseajour>
+<prefix>Am</prefix>
+<linkto>Pebernad de Langautier\Jean</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Rochas</libniv0>
+<famille>Rochas</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Rochas</lib>
+<titre>Rochas</titre>
+<miseajour>2012-01-18</miseajour>
+<prefix>AR</prefix>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>Alfroy</famillemenu>
+<color>Pink HotPink MediumVioletRed Color</color>
+<prefix>B</prefix>
+<niv0>
+<libniv0>Alfroy</libniv0>
+<famille>Alfroy</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Alfroy</lib>
+<titre>Alfroy</titre>
+<miseajour>
+<note>
+<date>2018-09-23</date>
+<content>Mise en place des tiroirs dans la frise</content>
+</note>
+<note>
+<date>2018-05-08</date>
+<content>Refonte de la frise pour prendre en compte les résultats des dernières recherches et présenter un fil continu de l'histoire des Alfroy pépiniéristes à Lieusaint</content>
+</note>
+<note>
+<date>2010-01-02</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>BA0</prefix>
+<linkto>Alfroy\Charles Thomas 1, Beaulieu\Thomas, Alfroy\Denis Augustin, Alfroy\Charles Pierre, Alfroy\Charles Ferdinand, Debarle\Louis, Sene\Charles, Picheran\Accueil, Barberousse\x, Picheran\Valentine, Sene\Henri, Alfroy\Fernand, Alfroy\Genevieve</linkto>
+<niv2>
+<rep>Releves</rep>
+<lib>Relevés état civil</lib>
+<titre>Relevés</titre>
+<miseajour>2018-05-24</miseajour>
+<prefix>BA9</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Charles Thomas 1</rep>
+<lib>Charles-Thomas et Geneviève Beaulieu</lib>
+<titre>Charles Thomas et Geneviève Beaulieu</titre>
+<miseajour>2018-05-10</miseajour>
+<prefix>BA1</prefix>
+</niv1>
+<niv1>
+<rep>Charles Thomas</rep>
+<lib>Charles-Thomas et Marie-Jeanne Guilbert</lib>
+<titre>Charles Thomas et Marie-Jeanne Guilbert</titre>
+<miseajour>2018-05-20</miseajour>
+<prefix>BA1</prefix>
+<niv2>
+<rep>Charles Pierre</rep>
+<lib>Charles-Pierre</lib>
+<titre>Charles Pierre</titre>
+<miseajour>2018-05-20</miseajour>
+<prefix>BA2</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Denis Augustin</rep>
+<lib>Denis-Augustin et Angélique Alfroy</lib>
+<titre>Denis Augustin et Angélique Alfroy</titre>
+<miseajour>2018-05-20</miseajour>
+<prefix>BA3</prefix>
+</niv1>
+<niv1>
+<rep>Charles Ferdinand</rep>
+<lib>Charles-Ferdinand et Valentine Picheran</lib>
+<titre>Charles Ferdinand et Valentine Picheran</titre>
+<miseajour>2018-05-23</miseajour>
+<prefix>BA4</prefix>
+<niv2>
+<rep>Charles Ferdinand - 1870</rep>
+<lib>Correspondance 1870-1871</lib>
+<titre>Correspondance de la guerre de 70 et Commune</titre>
+<miseajour>2016-03-05</miseajour>
+<prefix>BA5</prefix>
+</niv2>
+<niv2>
+<rep>Leon</rep>
+<lib>Léon</lib>
+<titre>Léon</titre>
+<miseajour>2018-05-06</miseajour>
+<prefix>BAl</prefix>
+</niv2>
+<niv2>
+<rep>Nanteuil</rep>
+<lib>Nanteuil</lib>
+<titre>Charles Gaugiran Nanteuil</titre>
+<miseajour>2018-05-14</miseajour>
+<prefix>BAn</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Fernand</rep>
+<lib>Fernand et Alice Séné</lib>
+<titre>Fernand et Alice Séné</titre>
+<miseajour>2010-04-01</miseajour>
+<prefix>BA6</prefix>
+<niv2>
+<rep>Fernand 1914</rep>
+<lib>1914</lib>
+<titre>Fernand en 1914</titre>
+<miseajour>2010-04-01</miseajour>
+<prefix>BA7</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Genevieve</rep>
+<lib>Geneviève et Louis de Langautier</lib>
+<titre>Geneviève</titre>
+<miseajour>2009-11-01</miseajour>
+<prefix>BA8</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Beaulieu</libniv0>
+<famille>Beaulieu</famille>
+<fildariane>Pebernad de Langautier/Alfroy</fildariane>
+<niv1>
+<rep>Thomas</rep>
+<lib>Beaulieu</lib>
+<titre>Beaulieu</titre>
+<miseajour>2018-05-11</miseajour>
+<prefix>Bb</prefix>
+<linkto>Alfroy\Charles Thomas 1</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Picheran</libniv0>
+<famille>Picheran</famille>
+<fildariane>Pebernad de Langautier/Alfroy</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Picheran</lib>
+<titre>Picheran</titre>
+<miseajour>2018-05-26</miseajour>
+<prefix>Bc0</prefix>
+</niv1>
+<niv1>
+<rep>Valentine</rep>
+<lib>Valentine et Charles-Ferdinand Alfroy</lib>
+<titre>Valentine</titre>
+<miseajour>2010-12-22</miseajour>
+<prefix>Bca</prefix>
+<niv2>
+<rep>Eugene</rep>
+<lib>Eugène</lib>
+<titre>Eugène</titre>
+<miseajour>2010-12-22</miseajour>
+<prefix>Bcb</prefix>
+</niv2>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Delgoffe</libniv0>
+<famille>Delgoffe</famille>
+<fildariane>Pebernad de Langautier/Alfroy/Picheran</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Delgoffe</lib>
+<titre>Delgoffe, carrossiers</titre>
+<miseajour>2018-05-26</miseajour>
+<prefix>Be0</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Séné</libniv0>
+<famille>Sene</famille>
+<fildariane>Pebernad de Langautier/Alfroy</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Séné</lib>
+<titre>Séné</titre>
+<miseajour>
+<note>
+<date>2018-09-24</date>
+<content>Ajout de la frise à tiroir</content>
+</note>
+<note>
+<date>2018-04-24</date>
+<content>Compléments et précisions</content>
+</note>
+<note>
+<date>2009-07-12</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Ba</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Debarle</libniv0>
+<famille>Debarle</famille>
+<fildariane>Pebernad de Langautier/Alfroy/Sene</fildariane>
+<niv1>
+<rep>Louis</rep>
+<lib>Debarle</lib>
+<titre>Debarle</titre>
+<miseajour>
+<note>
+<date>2018-09-23</date>
+<content>Mise en place des tiroirs dans la frise</content>
+</note>
+<note>
+<date>2018-04-02</date>
+<content>Dernière modification</content>
+</note>
+</miseajour>
+<prefix>Be0</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Barberousse</libniv0>
+<famille>Barberousse</famille>
+<fildariane>Pebernad de Langautier/Alfroy/Sene</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Barberousse</lib>
+<titre>Barberousse</titre>
+<miseajour>
+<note>
+<date>2018-09-24</date>
+<content>Compléments sur les Barberousse, création de la frise</content>
+</note>
+<note>
+<date>2009-01-03</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Bf0</prefix>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>Guillou</famillemenu>
+<color>#C2E184 YellowGreen ForestGreen Color</color>
+<prefix>C</prefix>
+<niv0>
+<libniv0>Guillou</libniv0>
+<famille>Guillou</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Guillou</lib>
+<titre>Guillou</titre>
+<miseajour>
+<note>
+<date>2018-10-06</date>
+<content>Ajout de la frise à tiroir et refonte de la page</content>
+</note>
+<note>
+<date>2011-10-07</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Ca0</prefix>
+<linkto>Espinasse\Auguste, Heron\Pierre, Graffin\Accueil, Guillou\Francois, Boudeau\Jean, Espinasse\Philippe, Guillou\Auguste, Guillou\Robert, Espinasse\Accueil, Heron\Accueil</linkto>
+</niv1>
+<niv1>
+<rep>Pierre</rep>
+<lib>Pierre puis son fils Joseph</lib>
+<titre>Pierre père de Joseph père de François</titre>
+<miseajour>2012-05-18</miseajour>
+<prefix>Ca1</prefix>
+</niv1>
+<niv1>
+<rep>Francois</rep>
+<lib>François et Gabrielle Boudeau</lib>
+<titre>François et Gabrielle Boudeau</titre>
+<miseajour>2012-05-05</miseajour>
+<prefix>Ca2</prefix>
+<niv2>
+<rep>FrMariage</rep>
+<lib>1820, mariage</lib>
+<titre>Mariage François et Gabrielle Boudeau</titre>
+<miseajour>2012-05-05</miseajour>
+<prefix>Ca3</prefix>
+</niv2>
+<niv2>
+<rep>FrDonation</rep>
+<lib>1876, donation</lib>
+<titre>Donation François</titre>
+<miseajour>2012-05-05</miseajour>
+<prefix>Ca4</prefix>
+</niv2>
+<niv2>
+<rep>FrAchat4</rep>
+<lib>1878, achat du 4</lib>
+<titre>1878, achat du 4 par les Lacaze</titre>
+<miseajour>2013-02-10</miseajour>
+<prefix>Ca14</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Auguste</rep>
+<lib>Auguste et Magdeleine Espinasse</lib>
+<titre>Auguste et Madeleine Espinasse</titre>
+<miseajour>2016-01-13</miseajour>
+<prefix>Ca5</prefix>
+<linkto>Guillou\AlbumRobert</linkto>
+<niv2>
+<rep>AuAffaires</rep>
+<lib>Affaires</lib>
+<titre>Les documents des affaires</titre>
+<miseajour>2012-06-18</miseajour>
+<prefix>Ca6</prefix>
+</niv2>
+<niv2>
+<rep>AuPartage</rep>
+<lib>1914 donation, 1915 succession</lib>
+<titre>Partage Auguste et Madeleine</titre>
+<miseajour>2012-06-18</miseajour>
+<prefix>Ca7</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Robert</rep>
+<lib>Robert et Henriette de Bonne</lib>
+<titre>Robert et Henriette de Bonne</titre>
+<miseajour><note><date>2019-03-17</date><content>Refonte de la page</content></note><note><date>2018-08-30</date><content>Ajout d'une photo de Robert et redimensionnement des images</content></note><note><date>2016-01-10</date><content>Dernière modification</content></note></miseajour>
+<prefix>Ca9</prefix>
+<niv2>
+<rep>AlbumRobert</rep>
+<lib>L'album d'une vie</lib>
+<titre>L'album d'une vie, 1886 - 1952</titre>
+<miseajour><note><date>2019-03-16</date><content>Refonte de la page avec la création de la page d'Henriette</content></note><note><date>2018-11-26</date><content>Refonte de la page pour introduire le rapport de Pierre Subra. Ajout aussi des souvenirs d'Isabelle</content></note><note><date>2018-08-30</date><content>Redimensionnement des photos</content></note><note><date>2011-12-27</date><content>Création de la page</content></note></miseajour>
+<prefix>Ca10</prefix>
+<linkto>Guillou\RoPartage24, Lamarque\Gabriel</linkto>
+</niv2>
+<niv2>
+<rep>FrancoisOncle</rep>
+<lib>François</lib>
+<titre>François</titre>
+<miseajour>
+<note>
+<date>2018-10-07</date>
+<content>Mise à jour suite à un déjeuner avec Isabelle</content>
+</note>
+<note>
+<date>2018-08-30</date>
+<content>Redimensionnement des photos</content>
+</note>
+<note>
+<date>2017-09-09</date>
+<content>Ajout de photos</content>
+</note>
+<note>
+<date>2016-01-10</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Ca</prefix>
+</niv2>
+<niv2>
+<rep>BailCepet</rep>
+<lib>1914, bail Cepet</lib>
+<titre>1914, Auguste confie Cepet à Robert</titre>
+<miseajour><note><date>2019-03-09</date><content>Création de la page à l'occasion de la refonte des pages de Robert</content></note>
+<note>
+<date>2013-02-10</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>K0z</prefix>
+</niv2>
+<niv2>
+<rep>RoAchat4</rep>
+<lib>1919, achat 4</lib>
+<titre>1919, achat du 4 Allée Alphone Peyrat</titre>
+<miseajour>2013-02-10</miseajour>
+<prefix>Ca12</prefix>
+</niv2>
+<niv2>
+<rep>RoAchat2bis</rep>
+<lib>1919, achat 2bis</lib>
+<titre>1919, sortie de l'indivision du 2bis</titre>
+<miseajour>2013-02-10</miseajour>
+<prefix>Ca11</prefix>
+</niv2>
+<niv2>
+<rep>RoPartage24</rep>
+<lib>1924, partage</lib>
+<titre>1924, partage entre Robert et Philippe</titre>
+<miseajour>2013-02-10</miseajour>
+<prefix>Ca13</prefix>
+</niv2>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Boudeau</libniv0>
+<famille>Boudeau</famille>
+<fildariane>Pebernad de Langautier/Guillou</fildariane>
+<niv1>
+<rep>Jean</rep>
+<lib>Boudeau</lib>
+<fildariane>Jean/</fildariane>
+<titre>Boudeau au Canet d'Aude</titre>
+<miseajour>2012-07-10</miseajour>
+<prefix>Cd0</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Espinasse</libniv0>
+<famille>Espinasse</famille>
+<fildariane>Pebernad de Langautier/Guillou</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Espinasse</lib>
+<titre>Espinasse</titre>
+<miseajour>
+<note>
+<date>2018-10-06</date>
+<content>Insertion de la frise à tiroir et refonte du texte</content>
+</note>
+<note>
+<date>2012-10-06</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Cb0</prefix>
+<linkto>Espinasse\Jean, Espinasse\Auguste, Espinasse\Philippe, Guillou\Auguste</linkto>
+</niv1>
+<niv1>
+<rep>Jean</rep>
+<lib>Jean et Marie Ardourel</lib>
+<titre>Jean et Marie Ardourel</titre>
+<miseajour>2012-09-30</miseajour>
+<prefix>Cb7</prefix>
+<linkto>Espinasse\Philippe</linkto>
+</niv1>
+<niv1>
+<rep>Auguste</rep>
+<lib>Auguste et Marie Antoinette Mayran</lib>
+<titre>Auguste et Marie Antoinette Mayran</titre>
+<miseajour>2012-10-06</miseajour>
+<prefix>Cb2</prefix>
+<linkto>Espinasse\Philippe</linkto>
+</niv1>
+<niv1>
+<rep>Philippe</rep>
+<lib>Philippe et Pierrine Héron</lib>
+<titre>Philippe et Pierrine Héron</titre>
+<miseajour>2012-10-06</miseajour>
+<prefix>Cb1</prefix>
+<linkto>Espinasse\PhTuteurs, Espinasse\Accueil, Espinasse\PhInventaire, Espinasse\PhMariage, Espinasse\Jean</linkto>
+<niv2>
+<rep>PhMariage</rep>
+<lib>1854, mariage</lib>
+<titre>Mariage en 1854</titre>
+<miseajour>2012-09-30</miseajour>
+<prefix>Cb3</prefix>
+<linkto>Espinasse\Philippe</linkto>
+</niv2>
+<niv2>
+<rep>PhInventaire</rep>
+<lib>1868, inventaire</lib>
+<titre>Inventaire en 1868</titre>
+<miseajour>2012-09-30</miseajour>
+<prefix>Cb4</prefix>
+<linkto>Espinasse\Philippe</linkto>
+</niv2>
+<niv2>
+<rep>PhTuteurs</rep>
+<lib>Tuteur de ses filles</lib>
+<titre>1868 et 1877, tuteurs des filles</titre>
+<miseajour>2012-09-30</miseajour>
+<prefix>Cb5</prefix>
+<linkto>Espinasse\Philippe</linkto>
+</niv2>
+<niv2>
+<rep>PhPartage</rep>
+<lib>1883, partage</lib>
+<titre>Partage en 1883</titre>
+<miseajour>2012-09-30</miseajour>
+<prefix>Cb6</prefix>
+</niv2>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Héron</libniv0>
+<famille>Heron</famille>
+<fildariane>Pebernad de Langautier/Guillou/Espinasse</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Héron</lib>
+<titre>Héron</titre>
+<miseajour>
+<note>
+<date>2018-10-04</date>
+<content>Refonte de la page et insertion de la frise à tiroir</content>
+</note>
+<note>
+<date>2012-10-06</date>
+<content>Dernière modification</content>
+</note>
+</miseajour>
+<prefix>Cc0</prefix>
+</niv1>
+<niv1>
+<rep>Pierre</rep>
+<lib>Pierre et Rosalie Graffin</lib>
+<titre>Pierre et Rosalie Graffin</titre>
+<miseajour>2012-10-06</miseajour>
+<prefix>Cc1</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Graffin</libniv0>
+<famille>Graffin</famille>
+<fildariane>Pebernad de Langautier/Guillou/Espinasse/Héron</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Graffin</lib>
+<titre>Graffin</titre>
+<miseajour>
+<note>
+<date>2018-10-01</date>
+<content>Refonte de la page et insertion de la frise à tiroir</content>
+</note>
+<note>
+<date>2012-10-06</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Cd0</prefix>
+<linkto></linkto>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>de Bonne</famillemenu>
+<color>#D6F3BB LawnGreen SeaGreen Color</color>
+<prefix>D</prefix>
+<niv0>
+<libniv0>de Bonne</libniv0>
+<famille>de Bonne</famille>
+<fildariane>Pebernad de Langautier/Guillou</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>de Bonne</lib>
+<titre>Maison de Bonne</titre>
+<miseajour>
+<note>
+<date>2018-10-07</date>
+<content>Refonte de la page à l'occasion de l'ajout de la frise à tiroir</content>
+</note>
+<note>
+<date>2014-09-10</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>D0</prefix>
+<linkto>de Bonne\Bernard1, Pigot\Accueil, Sahuque\Accueil, Martel\Accueil, Testa\Accueil, Lamarque\Accueil, Laperrine\Accueil, Hautpoul\Accueil, Alard\Accueil, de Bonne\Bulletin, de Bonne\Emigre, de Bonne\prefet, de Bonne\Justin, de Bonne\Sebastien</linkto>
+</niv1>
+<niv1>
+<rep>Bernard1</rep>
+<lib>Bernard et Marquise de Lautrec</lib>
+<titre>Notice par Edmond Crayol</titre>
+<miseajour>2014-09-08</miseajour>
+<prefix>D7</prefix>
+<niv2>
+<rep>Bulletin</rep>
+<lib>Bulletin</lib>
+<titre>Bulletin de la société d'histoire de Graulhet</titre>
+<miseajour>2014-07-18</miseajour>
+<prefix>D8</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Sebastien</rep>
+<lib>Sébastien et Antoinette de Cabrol</lib>
+<titre>Sébastien et Antoinette de Cabrol</titre>
+<miseajour>2011-04-14</miseajour>
+<prefix>D1</prefix>
+</niv1>
+<niv1>
+<rep>Emigre</rep>
+<lib>Justin et Antoinette Pigot</lib>
+<titre>Justin, la jeunesse d'un gascon</titre>
+<miseajour>2011-04-13</miseajour>
+<prefix>D2a</prefix>
+<linkto>de Bonne\KaCollege, de Bonne\KgMediterranee, de Bonne\Justin, de Bonne\Prefet, de Bonne\KaEntourage</linkto>
+<niv2>
+<rep>Justin</rep>
+<lib>Divers</lib>
+<titre>Divers documents</titre>
+<miseajour>2011-04-14</miseajour>
+<prefix>D2</prefix>
+<linkto>de Bonne\Emigre</linkto>
+</niv2>
+<niv2>
+<rep>Prefet</rep>
+<lib>Archives de Saint Pons</lib>
+<titre>Sous préfecture de Saint-Pons</titre>
+<miseajour>2011-04-15</miseajour>
+<prefix>D2b</prefix>
+<linkto>de Bonne\Emigre</linkto>
+</niv2>
+</niv1>
+<niv1>
+<rep>KaCasimir</rep>
+<lib>Casimir et Angélique Sahuqué</lib>
+<titre>Lettres d'une vie</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4a</prefix>
+<niv2>
+<rep>KaAvant</rep>
+<lib>Famille</lib>
+<titre>Avant-Propos de Bernard</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4b</prefix>
+<linkto>de Bonne\Justin, de Bonne\Bernard, de Bonne\KbPreparation, de Bonne\KaCollege, de Bonne\KeEnseigne, de Bonne\KeEnTurquie, de Bonne\KePort Royal, de Bonne\KhAnnee, de Bonne\KiInflexible, de Bonne\KdToulon, de Bonne\KcEleve, de Bonne\KfLieutenant, de Bonne\KgMediterranee, de Bonne\KgHaiti, de Bonne\KaEntourage, de Bonne\KcSeconde</linkto>
+</niv2>
+<niv2>
+<rep>KaEntourage</rep>
+<lib>Amis</lib>
+<titre>Entourage</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4c</prefix>
+<linkto>de Bonne\KcSeconde, de Bonne\KdToulon, de Bonne\KeEnseigne, de Bonne\KePort Royal, de Bonne\KgMediterranee, de Bonne\Emigre, de Bonne\KaCollege, de Bonne\KbPreparation, de Bonne\KeEnTurquie, de Bonne\KhAnnee, de Bonne\KgHaiti, de Bonne\KiInflexible, de Bonne\KaAvant, de Bonne\KcEleve, de Bonne\KfLieutenant</linkto>
+</niv2>
+<niv2>
+<rep>KaCollege</rep>
+<lib>1826</lib>
+<titre>Collège chez les Jésuites</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4d</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage, de Bonne\Emigre</linkto>
+</niv2>
+<niv2>
+<rep>KbPreparation</rep>
+<lib>1829</lib>
+<titre>Préparation à Juilly</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4e</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KcEleve</rep>
+<lib>1830</lib>
+<titre>Elève en 1829</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4f</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KcSeconde</rep>
+<lib>1831</lib>
+<titre>Seconde tentative, 1831 à 1836</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4g</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KdToulon</rep>
+<lib>1837</lib>
+<titre>Toulon en 1837, toujours élève</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4h</prefix>
+<linkto>de Bonne\KaEntourage, de Bonne\KaAvant</linkto>
+</niv2>
+<niv2>
+<rep>KeEnseigne</rep>
+<lib>1838</lib>
+<titre>Enseigne, 18 mois sur le Papin</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4i</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KeEnTurquie</rep>
+<lib>1839</lib>
+<titre>En Turquie, 10 mois sur l'Iéna</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4j</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KePort Royal</rep>
+<lib>1840</lib>
+<titre>Port Royal, 20 mois aux Antilles</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4k</prefix>
+<linkto>de Bonne\KaEntourage, de Bonne\KaAvant</linkto>
+</niv2>
+<niv2>
+<rep>KfLieutenant</rep>
+<lib>1843</lib>
+<titre>Lieutenant à Mogador, 8 mois</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4l</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KgMediterranee</rep>
+<lib>1845</lib>
+<titre>Méditérranée sur le Labrador, 11 mois</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4m</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\Emigre, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KgHaiti</rep>
+<lib>1846</lib>
+<titre>Haïti, station aux Antilles, 20 mois</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4n</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KhAnnee</rep>
+<lib>1848</lib>
+<titre>L'année 1848 à terre</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4o</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KiInflexible</rep>
+<lib>1849</lib>
+<titre>Méditérannée sur l'Inflexible, 13 mois</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4p</prefix>
+<linkto>de Bonne\KaAvant, de Bonne\KaEntourage</linkto>
+</niv2>
+<niv2>
+<rep>KjAttente</rep>
+<lib>1851</lib>
+<titre>Attente d'un commandement, 1851 - 1859</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4q</prefix>
+</niv2>
+<niv2>
+<rep>KkCapitaine</rep>
+<lib>1859</lib>
+<titre>Capitaine 1859, Mariage 1860, Retraite 1861</titre>
+<miseajour>2010-11-01</miseajour>
+<prefix>D4r</prefix>
+</niv2>
+<niv2>
+<rep>KlDossierMil</rep>
+<lib>Vincennes</lib>
+<titre>Dossier militaire</titre>
+<miseajour>2009-11-01</miseajour>
+<prefix>D4s</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Bernard</rep>
+<lib>Bernard et Marie-Thérèse Lamarque</lib>
+<titre>Bernard et Marie-Thérèse Lamarque</titre>
+<miseajour>2014-08-07</miseajour>
+<prefix>D6</prefix>
+<niv2>
+<rep>Genevieve</rep>
+<lib>Geneviève</lib>
+<titre>Geneviève</titre>
+<miseajour><note><date>2019-02-22</date><content>Ajout des documents concernant sa carrière retrouvés par Béné à Rieucros</content></note><note><date>2018-10-31</date><content>Refonte de la page, ajout des photos des années 60-70, ajout des souvenirs d'Isabelle</content></note><note><date>2017-07-28</date><content>Création de la page</content></note></miseajour>
+<prefix>Dx</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Henriette</rep>
+<lib>Henriette et Robert Guillou</lib>
+<titre>Henriette et Robert</titre>
+<miseajour><note><date>2019-03-17</date><content>Refonte de la page</content></note><note><date>2016-01-16</date><content>Création de la page</content></note></miseajour>
+<prefix>Dy</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Laperrine</libniv0>
+<famille>Laperrine</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne/Lamarque</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Laperrine</lib>
+<titre>Laperrine</titre>
+<miseajour><note><date>2018-10-23</date><content>Refonte de la page à l'occasion de l'ajout de la frise à tiroir</content></note><note><date>2015-10-18</date><content>Création de la page</content></note></miseajour>
+<prefix>DLp0</prefix>
+<linkto>Hautpoul\Accueil, Draps\MoulinDuRoi</linkto>
+<niv2>
+<rep>MoulinDuRoi</rep>
+<lib>Filature de l'île du moulin du roi</lib>
+<titre>Filature de l'île du moulin du roi</titre>
+<miseajour><note><date>2018-11-04</date><content>Refonte de l'introduction</content></note><note><date>2015-10-02</date><content>Création de la page</content></note></miseajour>
+<prefix>Ia</prefix>
+<linkto>Draps\DrapsAude, Laperrine\Accueil</linkto>
+</niv2>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Hautpoul</libniv0>
+<famille>Hautpoul</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne/Lamarque/Laperrine</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Hautpoul</lib>
+<titre>Maison d'Hautpoul</titre>
+<miseajour><note><date>2018-10-22</date><content>Refonte de la page à l'occasion de l'introduction de la frise à tiroir</content></note><note><date>2015-10-25</date><content>Création de la page</content></note></miseajour>
+<prefix>Dh</prefix>
+<linkto>de Bonne\Accueil, Collateraux\Salaman, Laperrine\Accueil</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Lamarque</libniv0>
+<famille>Lamarque</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Lamarque</lib>
+<titre>Lamarque</titre>
+<miseajour><note><date>2018-10-16</date><content>Refonte du texte de la création de la frise à tiroir</content></note><note><date>2015-10-31</date><content>Création de la page</content></note></miseajour>
+<prefix>Dlm0</prefix>
+<linkto>Delmas\Jeanne, Hautpoul\Accueil, Laperrine\Accueil, Collateraux\Maraval, Collateraux\Salaman, Lemayre\Accueil, Delmas\Accueil, Lamarque\Jean, Lamarque\Antoine, Castel\Accueil, Lamarque\Dominique, Lamarque\Ferdinand, Lamarque\Paul, Lamarque\MarieTherese, Lamarque\Michel, Lamarque\Antoinette, Lamarque\Catherine, Alard\Accueil, de Bonne\Bernard, Draps\MoulinDuRoi</linkto>
+</niv1>
+<niv1>
+<rep>Michel</rep>
+<lib>Michel et Marie Lemayre</lib>
+<titre>Michel et Marie Lemayre</titre>
+<miseajour><note><date>2018-10-16</date><content>Compléments sur les fils</content></note><note><date>2015-08-01</date><content>Création de la page</content></note></miseajour>
+<prefix>Df</prefix>
+</niv1>
+<niv1>
+<rep>Jean</rep>
+<lib>Jean et Jeanne Delmas</lib>
+<titre>Jean et Jeanne Delmas</titre>
+<miseajour>2015-08-01</miseajour>
+<prefix>De</prefix>
+</niv1>
+<niv1>
+<rep>Antoine</rep>
+<lib>Antoine et Jeanne Laporterie</lib>
+<titre>Antoine et Jeanne Laporterie</titre>
+<miseajour>2015-08-01</miseajour>
+<prefix>Dd</prefix>
+<niv2>
+<rep>Catherine</rep>
+<lib>Catherine et Pierre Coste</lib>
+<titre>Catherine et Pierre Coste</titre>
+<miseajour>2015-08-04</miseajour>
+<prefix>Dr</prefix>
+</niv2>
+<niv2>
+<rep>Antoinette</rep>
+<lib>Antoinette</lib>
+<titre>Antoinette, Ursuline à Montréal</titre>
+<miseajour>2015-08-04</miseajour>
+<prefix>Dq</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Dominique</rep>
+<lib>Dominique et Anne Castel</lib>
+<titre>Dominique et Anne Castel</titre>
+<miseajour>2015-08-01</miseajour>
+<prefix>Dc</prefix>
+<linkto>Castel\Accueil, Lamarque\Ferdinand</linkto>
+<niv2>
+<rep>Marie</rep>
+<lib>Marie</lib>
+<titre>Marie</titre>
+<miseajour>2015-09-16</miseajour>
+<prefix>Dv</prefix>
+</niv2>
+<niv2>
+<rep>Victoire</rep>
+<lib>Victoire</lib>
+<titre>Victoire</titre>
+<miseajour>2015-08-04</miseajour>
+<prefix>Du</prefix>
+</niv2>
+<niv2>
+<rep>Jeanne</rep>
+<lib>Jeanne Marie</lib>
+<titre>Jeanne Marie</titre>
+<miseajour>2015-08-03</miseajour>
+<prefix>Dn</prefix>
+</niv2>
+<niv2>
+<rep>Suzon</rep>
+<lib>Suzon</lib>
+<titre>Suzon</titre>
+<miseajour>2015-08-03</miseajour>
+<prefix>Do</prefix>
+</niv2>
+<niv2>
+<rep>Simand</rep>
+<lib>Jacquette Simand</lib>
+<titre>Jacquette Simand, religieuse</titre>
+<miseajour>2015-10-010</miseajour>
+<prefix>Dk</prefix>
+</niv2>
+<niv2>
+<rep>Pinel</rep>
+<lib>Succession Pinel</lib>
+<titre>Sucession Pinel</titre>
+<miseajour>2015-08-03</miseajour>
+<prefix>Dl</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Ferdinand</rep>
+<lib>Ferdinand et Clary Laperrine</lib>
+<titre>Ferdinand et Clary Laperrine</titre>
+<miseajour>2015-08-01</miseajour>
+<prefix>Db</prefix>
+<linkto>Lamarque\Dominique, Collateraux\Salaman</linkto>
+</niv1>
+<niv1>
+<rep>Paul</rep>
+<lib>Paul et Pauline Alard</lib>
+<titre>Paul et Pauline Alard</titre>
+<miseajour>2013-04-01</miseajour>
+<prefix>Dlm1</prefix>
+<niv2>
+<rep>Gabriel</rep>
+<lib>Gabriel</lib>
+<titre>Gabriel Lamarque</titre>
+<miseajour><note><date>2019-04-17</date><content>Redimensionnement des images</content></note><note><date>2014-07-18</date><content>Création de la page</content></note></miseajour>
+<prefix>Dlm2</prefix>
+<linkto>Guillou\AlbumRobert</linkto>
+</niv2>
+</niv1>
+<niv1>
+<rep>MarieTherese</rep>
+<lib>Marie-Thérèse et Bernad de Bonne</lib>
+<titre>Marie Thérèse et Bernard de Bonne</titre>
+<miseajour>2015-10-18</miseajour>
+<prefix>Dlm3</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Alard</libniv0>
+<famille>Alard</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne/Lamarque</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Alard</lib>
+<titre>Alard</titre>
+<miseajour><note><date>2018-10-23</date><content>Refonte de la page à l'occasion de l'introduction de la frise à tiroir</content></note><note><date>2011-08-28</date><content>Création de la page</content></note></miseajour>
+<prefix>Da</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Castel</libniv0>
+<famille>Castel</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne/Lamarque</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Castel</lib>
+<titre>Castel</titre>
+<miseajour><note><date>2018-10-09</date><content>Refonte de la page avec l'ajout de la frise à tiroir</content></note><note><date>2015-10-18</date><content>Création de la page</content></note></miseajour>
+<prefix>Dw</prefix>
+<linkto>Collateraux\Salaman, Lamarque\Dominique</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Lemayre</libniv0>
+<famille>Lemayre</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne/Lamarque</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Lemayre</lib>
+<titre>Lemayre</titre>
+<miseajour><note><date>2018-10-09</date><content>Refonte de la page à l'occasion de l'ajout de la frise à tiroir</content></note><note><date>2015-08-01</date><content>Création de la page</content></note></miseajour>
+<prefix>Dg</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Martel</libniv0>
+<famille>Martel</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne/Sahuqué</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Martel</lib>
+<titre>Martel</titre>
+<miseajour><note><date>2018-10-12</date><content>Refonte du texte à l'occasion de l'introduction de la frise à tiroir</content></note><note><date>2011-07-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Dm</prefix>
+<linkto>Testa\Accueil</linkto>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Delmas</libniv0>
+<famille>Delmas</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne/Lamarque</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Delmas</lib>
+<titre>Delmas</titre>
+<miseajour><note><date>2018-10-14</date><content>Refonte de la page à l'occasion de l'introduction de la frise à tiroir</content></note><note><date>2015-08-02</date><content>Création de la page</content></note></miseajour>
+<prefix>Di</prefix>
+</niv1>
+<niv1>
+<rep>Jeanne</rep>
+<lib>Jeanne</lib>
+<titre>Jeanne</titre>
+<miseajour>2015-08-02</miseajour>
+<prefix>Dj</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Pigot</libniv0>
+<famille>Pigot</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Pigot</lib>
+<titre>Pigot</titre>
+<miseajour><note><date>2018-10-13</date><content>Refont de la page à l'occasion de l'insertion de la frise à tiroir</content></note><note><date>2011-08-28</date><content>Création de la page</content></note></miseajour>
+<prefix>Dp</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Sahuqué</libniv0>
+<famille>Sahuque</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Sahuqué</lib>
+<titre>Sahuqué</titre>
+<miseajour><note><date>2018-10-13</date><content>Refonte de la page à l'occasion de la frise à tiroir</content></note><note><date>2011-07-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Ds</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Testa</libniv0>
+<famille>Testa</famille>
+<fildariane>Pebernad de Langautier/Guillou/de Bonne/Sahuqué/Martel</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Testa</lib>
+<titre>Testa</titre>
+<miseajour><note><date>2018-10-12</date><content>Insertion de la frise à tiroir ainsi que de l'acte de décès d'Angélique</content></note><note><date>2011-07-23</date><content>Création de la page</content></note></miseajour>
+<prefix>Dt</prefix>
+<linkto>Martel\Accueil</linkto>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>Paloque</famillemenu>
+<color>#f3416394 LightCoral Crimson Color</color>
+<prefix>E</prefix>
+<niv0>
+<libniv0>Paloque</libniv0>
+<famille>Paloque</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Paloque</lib>
+<titre>Paloque</titre>
+<miseajour>
+<note>
+<date>2018-09-22</date>
+<content>Refonte complète de la page avec une frise à tiroir</content>
+</note>
+<note>
+<date>2011-04-12</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>E1</prefix>
+<linkto>Paloque\Jules</linkto>
+</niv1>
+<niv1>
+<rep>Antoine</rep>
+<lib>Antoine et Pauline Julienne</lib>
+<titre>Une vie d'enseignant</titre>
+<miseajour>2013-01-19</miseajour>
+<prefix>E2</prefix>
+</niv1>
+<niv1>
+<rep>Jules</rep>
+<lib>Jules et Thérèse Bessières</lib>
+<titre>Jules et Thérèse Bessières</titre>
+<miseajour>
+<note>
+<date>2018-08-23</date>
+<content>Ajout des photos des différents voyages</content>
+</note>
+<note>
+<date>2014-09-07</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>E2</prefix>
+<linkto>Paloque\Canon75, Paloque\Correspondance, Paloque\bicyclette, Paloque\Avancement</linkto>
+<niv2>
+<rep>Correspondance</rep>
+<lib>Correspondances d'une vie</lib>
+<titre>Correspondances d'une vie</titre>
+<miseajour>2013-01-16</miseajour>
+<prefix>E2b</prefix>
+<linkto>Paloque\Jules</linkto>
+</niv2>
+<niv2>
+<rep>Bicyclette</rep>
+<lib>Etude sur la bicyclette</lib>
+<titre>Etude sur la bicyclette</titre>
+<miseajour>2014-09-18</miseajour>
+<prefix>E6</prefix>
+</niv2>
+<niv2>
+<rep>Canon75</rep>
+<lib>Dossier sur le canon de 75</lib>
+<titre>Dossier sur le canon de 75</titre>
+<miseajour>2014-09-10</miseajour>
+<prefix>E3</prefix>
+<linkto>Paloque\Jules</linkto>
+</niv2>
+<niv2>
+<rep>Avancement</rep>
+<lib>Avancement des officiers</lib>
+<titre>L'avancement des officiers</titre>
+<miseajour>2014-10-12</miseajour>
+<prefix>E7</prefix>
+</niv2>
+<niv2>
+<rep>CoursESG</rep>
+<lib>Cours à l'école de Guerre</lib>
+<titre>Travaux personnels Jules Paloque</titre>
+<miseajour>2014-09-15</miseajour>
+<prefix>E4</prefix>
+</niv2>
+<niv2>
+<rep>Bertrix</rep>
+<lib>Bataille de Bertrix</lib>
+<titre>La bataille de Bertrix</titre>
+<miseajour>2011-04-1</miseajour>
+<prefix>E2c</prefix>
+<linkto>Paloque\BertrixDoc</linkto>
+</niv2>
+<niv2>
+<rep>BertrixDoc</rep>
+<lib>Documents sur Bertrix</lib>
+<titre>Compléments sur Bertrix</titre>
+<miseajour>2014-09-30</miseajour>
+<prefix>E2a</prefix>
+<linkto>Paloque\Bertrix</linkto>
+</niv2>
+<niv2>
+<rep>MonDossier</rep>
+<lib>Mon dossier de la Grande Guerre</lib>
+<titre>Ce qui me concerne sur la Grande Guerre</titre>
+<miseajour>2014-09-15</miseajour>
+<prefix>E0</prefix>
+</niv2>
+<niv2>
+<rep>Verdun14</rep>
+<lib>Reprise de Douamont</lib>
+<titre>Reprise de Douamont et Vaux</titre>
+<miseajour>2014-09-15</miseajour>
+<prefix>E5</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Emile</rep>
+<lib>Emile et Yvonne Rouis</lib>
+<titre>Emile et Yvonne Rouis</titre>
+<miseajour>
+<note>
+<date>2018-08-26</date>
+<content>Refonte du texte d'introduction et ajout des photos de l'album</content>
+</note>
+<note>
+<date>2016-05-20</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Ec</prefix>
+<niv2>
+<rep>Astronome</rep>
+<lib>Astronome</lib>
+<titre>Bulletin biographique de M. Emile Paloque</titre>
+<miseajour>
+<note>
+<date>2018-08-30</date>
+<content>Ajout et redimensionnement des photos</content>
+</note>
+<note>
+<date>2016-05-14</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>Eb</prefix>
+</niv2>
+</niv1>
+<niv1>
+<glyphicon>lock</glyphicon>
+<rep>Bernard</rep>
+<lib>Bernard et Gillette Tailleur</lib>
+<titre>Bernard et Gillette Tailleur</titre>
+<miseajour>2017-11-19</miseajour>
+<prefix>Ed</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Caussat</libniv0>
+<famille>Caussat</famille>
+<fildariane>Pebernad de Langautier/Paloque/Alias</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Caussat</lib>
+<titre>Caussat, mariage dans l'Aude</titre>
+<miseajour>2015-04-11</miseajour>
+<prefix>Ea</prefix>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>Rouis</famillemenu>
+<color>#ffa280 Orange OrangeRed Color</color>
+<prefix>F</prefix>
+<niv0>
+<libniv0>Rouis</libniv0>
+<famille>Rouis</famille>
+<fildariane>Pebernad de Langautier/Paloque</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Rouis</lib>
+<titre>Rouis</titre>
+<miseajour>
+<note>
+<date>2018-09-22</date>
+<content>Ajout des tiroirs Demarest et Poulenc dans la frise</content>
+</note>
+<note>
+<date>2018-08-30</date>
+<content>Refonte complète du texte</content>
+</note>
+<note>
+<date>2011-02-10</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>F0</prefix>
+<linkto>Rouis\Louis, Jacquot\Accueil, Poulenc\Accueil, Jerome\Accueil, Demarest\Accueil, Rouis\Gilles, Poulenc\Eugene, Rouis\Etienne</linkto>
+</niv1>
+<niv1>
+<rep>Pierre</rep>
+<lib>Pierre et Marguerite Vaissette</lib>
+<titre>Pierre et Marguerite Vaissette</titre>
+<miseajour>2011-02-03</miseajour>
+<prefix>FRa</prefix>
+</niv1>
+<niv1>
+<rep>Antoine</rep>
+<lib>Antoine-Fulcran et Cécile Ollier</lib>
+<titre>Antoine Fulcran et Cécile Ollier</titre>
+<miseajour>2011-02-03</miseajour>
+<prefix>FRb</prefix>
+</niv1>
+<niv1>
+<rep>Gilles</rep>
+<lib>Gilles et Charlotte Demarest</lib>
+<titre>Gilles, artilleur de la Grande armée</titre>
+<miseajour>
+<note>
+<date>2018-09-30</date>
+<content>Revue de la première section</content>
+</note>
+<note>
+<date>2011-02-12</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>FRc</prefix>
+<linkto>Rouis\Louis</linkto>
+<niv2>
+<rep>Therese</rep>
+<lib>Thérèse</lib>
+<titre>Gilles et Thérèse Marcel</titre>
+<miseajour>2011-02-12</miseajour>
+<prefix>FRd</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Louis</rep>
+<lib>Jean-Louis et Léonie Jérôme</lib>
+<titre>Jean-Louis, médecin militaire</titre>
+<miseajour>2014-08-15</miseajour>
+<prefix>FRe</prefix>
+<linkto>Rouis\Gilles, Rouis\Accueil</linkto>
+<niv2>
+<rep>SiegeStrasbourg</rep>
+<lib>Siège de Strasbourg</lib>
+<titre>Récit du siège de Strasbourg</titre>
+<miseajour>2014-07-14</miseajour>
+<prefix>F1</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Etienne</rep>
+<lib>Etienne et Marguerite Poulenc</lib>
+<titre>Etienne et Marguerite Poulenc</titre>
+<miseajour>2014-08-07</miseajour>
+<prefix>FRf</prefix>
+<niv2>
+<rep>Forets</rep>
+<lib>Forêts communales</lib>
+<titre>Forêts communales</titre>
+<miseajour>2014-08-07</miseajour>
+<prefix>F2</prefix>
+</niv2>
+<niv2>
+<rep>Marcel</rep>
+<lib>Marcel</lib>
+<titre>Marcel</titre>
+<miseajour>
+<note>
+<date>2018-12-04</date>
+<content>Création de la page à partir des lettres transcrites et communiquées par Victoire, petite fille de Marcel</content>
+</note>
+</miseajour>
+<prefix>Fa</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Yvonne</rep>
+<lib>Yvonne</lib>
+<titre>Yvonne</titre>
+<miseajour>2017-08-03</miseajour>
+<prefix>FRg</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Demarest</libniv0>
+<famille>Demarest</famille>
+<fildariane>Pebernad de Langautier/Paloque/Rouis</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Demarest</lib>
+<titre>Demarest</titre>
+<miseajour>
+<note>
+<date>2018-09-23</date>
+<content>Ajout de l'intro et de la frise</content>
+</note>
+<note>
+<date>2008-04-27</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>FMt</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Jacquot</libniv0>
+<famille>Jacquot</famille>
+<fildariane>Pebernad de Langautier/Paloque/Rouis/Jérome/Noel</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Jacquot</lib>
+<titre>Jacquot dans la Haute-Saône</titre>
+<miseajour>2011-02-14</miseajour>
+<prefix>Fj0</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Jérome</libniv0>
+<famille>Jerome</famille>
+<fildariane>Pebernad de Langautier/Paloque/Rouis</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Jérome</lib>
+<titre>Jérome, Saint-Dié</titre>
+<miseajour>2011-02-14</miseajour>
+<prefix>FJ0</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Poulenc</libniv0>
+<famille>Poulenc</famille>
+<fildariane>Pebernad de Langautier/Paloque/Rouis</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Poulenc</lib>
+<titre>Poulenc</titre>
+<miseajour>
+<note>
+<date>2018-09-22</date>
+<content>Redimensionnement des images, mise à jour de la frise</content>
+</note>
+<note>
+<date>2017-08-03</date>
+<content>Dernière modification</content>
+</note>
+</miseajour>
+<prefix>FPa</prefix>
+</niv1>
+<niv1>
+<rep>Jean</rep>
+<lib>Jean et Marie Icher</lib>
+<titre>Jean et Marie Icher</titre>
+<miseajour>2010-06-01</miseajour>
+<prefix>FPb</prefix>
+</niv1>
+<niv1>
+<rep>Eugene</rep>
+<lib>Eugène et Juliette de Rames</lib>
+<titre>Eugène et Juliette de Rames</titre>
+<miseajour>2017-08-03</miseajour>
+<prefix>FPc</prefix>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>Tailleur</famillemenu>
+<color>#99ccff SkyBlue DodgerBlue Color</color>
+<prefix>G</prefix>
+<niv0>
+<libniv0>Tailleur</libniv0>
+<famille>Tailleur</famille>
+<fildariane>Pebernad de Langautier</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Tailleur</lib>
+<titre>Tailleur</titre>
+<miseajour>
+<note>
+<date>2018-09-26</date>
+<content>Refonte du texte à l'occasion de la création de la frise à tiroir</content>
+</note>
+<note>
+<date>2012-01-31</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>G0</prefix>
+<linkto>Cabanat\Accueil</linkto>
+</niv1>
+<niv1>
+<rep>Pierre</rep>
+<lib>Pierre et Alexise Baldé</lib>
+<titre>Pierre et Alexise Baldé</titre>
+<miseajour>2012-01-27</miseajour>
+<prefix>GMa</prefix>
+</niv1>
+<niv1>
+<rep>LouisGregoire</rep>
+<lib>Louis-Grégoire et Marie Arquer</lib>
+<titre>Louis Grégoire et Marie Arquer</titre>
+<miseajour>2012-01-31</miseajour>
+<prefix>GMb</prefix>
+</niv1>
+<niv1>
+<rep>ProsperLouis</rep>
+<lib>Prosper-Louis et Rose Coderch</lib>
+<titre>Prosper Louis et Rose Coderch</titre>
+<miseajour>2012-01-31</miseajour>
+<prefix>GMc</prefix>
+<niv2>
+<rep>Antoine</rep>
+<lib>Antoine</lib>
+<titre>Antoine, mort à 20 ans</titre>
+<miseajour>2012-01-27</miseajour>
+<prefix>GMd</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Francois</rep>
+<lib>Louis-François et Thérèse Cabanat</lib>
+<titre>François et Thérèse Cabanat</titre>
+<miseajour><note><date>2019-09-15</date><content>Refonte de la page avec l'ajout des lettres familiales</content></note><note><date>2012-01-30</date><content>Création de la page</content></note></miseajour>
+<prefix>GMe</prefix>
+</niv1>
+<niv1>
+<rep>Prosper</rep>
+<lib>Prosper et Marie-Louise Merlat</lib>
+<titre>Prosper et Marie-Louise Merlat</titre>
+<miseajour><note><date>2019-10-06</date><content>Refonte de la page à l'occasion de l'ajout du discours lors de la retraite de Prosper</content></note><note><date>2018-12-07</date><content>Redimensionnement des photos</content></note><note><date>2017-11-30</date><content>Création de la page</content></note></miseajour>
+<prefix>GMf</prefix>
+<niv2>
+<rep>Jeunesse</rep>
+<lib>Jeunesse</lib>
+<titre>Jeunesse</titre>
+<miseajour><note><date>2019-10-06</date><content>Création de la page</content></note></miseajour>
+<prefix>X1k</prefix>
+</niv2>
+
+
+<niv2>
+
+<rep>1914</rep>
+<lib>1914</lib>
+<titre>1914</titre>
+<miseajour><note><date>2020-02-15</date><content>Création de la page</content></note></miseajour>
+<prefix>V0e</prefix>
+</niv2>
+<niv2>
+<glyphicon>lock</glyphicon>
+<rep>1915</rep>
+<lib>1915</lib>
+<titre>1915</titre>
+<miseajour>2019-08-21</miseajour>
+<prefix>V0f</prefix>
+</niv2>
+<niv2>
+<glyphicon>lock</glyphicon>
+<rep>1918</rep>
+<lib>1918</lib>
+<titre>1918</titre>
+<miseajour>2019-08-21</miseajour>
+<prefix>V0g</prefix>
+</niv2>
+<niv2>
+<glyphicon>pencil</glyphicon>
+<rep>Prosper 14</rep>
+<lib>Prosper 14</lib>
+<titre>Soldat en 14-18</titre>
+<miseajour>
+<note>
+<date>2018-09-26</date>
+<content>Redimensionnement des photos</content>
+</note>
+<note>
+<date>2010-06-01</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>GMg</prefix>
+</niv2>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Cabanat</libniv0>
+<famille>Cabanat</famille>
+<fildariane>Pebernad de Langautier/Paloque/Tailleur</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Cabanat</lib>
+<titre>Cabanat</titre>
+<miseajour>
+<note>
+<date>2018-09-25</date>
+<content>Recadrage des photos et ajout de la frise</content>
+</note>
+<note>
+<date>2010-06-01</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>GM0</prefix>
+</niv1>
+<niv1>
+<rep>Valentin</rep>
+<lib>Valentin et Marie Coderch</lib>
+<titre>Valentin et Marie Coderch</titre>
+<miseajour><note><date>2018-12-28</date><content>Création de la page</content></note></miseajour>
+<prefix>Ga</prefix>
+<niv2>
+<rep>Emmanuel</rep>
+<lib>Emmanuel frère</lib>
+<titre>Emmanuel Cabanat</titre>
+<miseajour><note><date>2019-01-14</date><content>Création de la page</content></note></miseajour>
+<prefix>U1e</prefix>
+</niv2>
+<niv2>
+<rep>ValentinNeveu</rep>
+<lib>Valentin neveu</lib>
+<titre>Valentin neveu</titre>
+<miseajour><note><date>2018-12-28</date><content>Création de la page</content></note></miseajour>
+<prefix>Gb</prefix>
+</niv2>
+<niv2>
+<rep>Roger</rep>
+<lib>Roger petit-neveu</lib>
+<titre>Roger petit-neveu</titre>
+<miseajour>2019-02-13</miseajour>
+<prefix>W0n</prefix>
+</niv2>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Coderch</libniv0>
+<famille>Coderch</famille>
+<fildariane></fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Coderch</lib>
+<titre>Coderch</titre>
+<miseajour><note><date>2019-01-17</date><content>Création de la page</content></note></miseajour>
+<prefix>W1o</prefix>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Ausseil</libniv0>
+<famille>Ausseil</famille>
+<fildariane>Pebernad de Langautier/Paloque/Tailleur/Cabanat</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Ausseil</lib>
+<titre>Ausseil</titre>
+<miseajour><note><date>2019-01-05</date><content>Création de la page</content></note></miseajour>
+<prefix>Q1c</prefix>
+</niv1>
+</niv0>
+</menu>
+<menu>
+<famillemenu>Merlat</famillemenu>
+<color>#b6cee2 SkyBlue SteelBlue Color</color>
+<prefix>H</prefix>
+<niv0>
+<libniv0>Merlat</libniv0>
+<famille>Merlat</famille>
+<fildariane>Pebernad de Langautier/Paloque/Tailleur</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Merlat</lib>
+<titre>Merlat</titre>
+<miseajour>
+<note>
+<date>2018-09-29</date>
+<content>Ajout de l'intro, l'historique et de la frise à tiroir</content>
+</note>
+<note>
+<date>2010-04-01</date>
+<content>Création de la page</content>
+</note>
+</miseajour>
+<prefix>H0</prefix>
+<linkto>Nicolas\Accueil, Merlat\Memoire, Merlat\Anna, Merlat\Gilles, Nicolas\Hermance</linkto>
+<niv2>
+<rep>RelevesCapcir</rep>
+<lib>Relevés du Capcir</lib>
+<titre>Etat civil du Capcir sous l'ancien régime</titre>
+<miseajour>2013-05-08</miseajour>
+<prefix>HMt</prefix>
+</niv2>
+<niv2>
+<rep>Notice</rep>
+<lib>Notice sur le Capcir</lib>
+<titre>Notice sur le Capcir</titre>
+<miseajour>2014-07-20</miseajour>
+<prefix>H1</prefix>
+</niv2>
+</niv1>
+<niv1>
+<rep>Memoire</rep>
+<lib>Mémoire des Merlat</lib>
+<titre>Mémoire des Merlat</titre>
+<miseajour>2017-08-05</miseajour>
+<prefix>HMR</prefix>
+</niv1>
+<niv1>
+<rep>Anna</rep>
+<lib>Anna Cômes-Merlat</lib>
+<titre>Anna Cômes - Sur une photographie</titre>
+<miseajour>2010-10-10</miseajour>
+<prefix>HMS</prefix>
+</niv1>
+<niv1>
+<rep>Gilles</rep>
+<lib>Gilles et Hermance Nicolas</lib>
+<titre>Gilles et Hermance</titre>
+<miseajour><note><date>2019-04-06</date><content>Redimensionnement des images</content></note><note><date>2017-08-06</date><content>Création de la page</content></note></miseajour>
+<prefix>HMO</prefix>
+</niv1>
+<niv1>
+<rep>MarieLouise</rep>
+<lib>Marie-Louise</lib>
+<titre>Marie-Louise</titre>
+<miseajour>2017-12-02</miseajour>
+<prefix>Hb</prefix>
+<niv2>
+<rep>Gillette</rep>
+<lib>Gillette</lib>
+<titre>Gillette et Adolphe Gour</titre>
+<miseajour>2017-11-28</miseajour>
+<prefix>Ha</prefix>
+</niv2>
+<niv2>
+<glyphicon>lock</glyphicon>
+<rep>ClaudeGour</rep>
+<lib>Claude Gour</lib>
+<titre>Claude Gour</titre>
+<miseajour>2019-02-13</miseajour>
+<prefix>N0y</prefix>
+</niv2>
+</niv1>
+</niv0>
+<niv0>
+<libniv0>Nicolas</libniv0>
+<famille>Nicolas</famille>
+<fildariane>Pebernad de Langautier/Paloque/Tailleur/Merlat</fildariane>
+<niv1>
+<rep>Accueil</rep>
+<lib>Nicolas</lib>
+<titre>Nicolas</titre>
+<miseajour><note><date>2019-04-06</date><content>Redimensionnement des images</content></note><note><date>2018-09-29</date><content>Ajout de la frise</content></note><note><date>2010-10-10</date><content>Création de la page</content></note></miseajour>
+<prefix>HM0</prefix>
+</niv1>
+<niv1>
+<rep>Hermance</rep>
+<lib>Hermance</lib>
+<titre>Hermance</titre>
+<miseajour>2015-11-08</miseajour>
+<prefix>HMP</prefix>
+</niv1>
+</niv0>
+</menu>
+</menus>
+</contenu>

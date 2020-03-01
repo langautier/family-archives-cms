@@ -1,0 +1,226 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon>
+		<tabs>
+			<tab idMso="TabHome">
+				<group idMso="GroupEditing" visible="false" />
+				<group idMso="ParagraphDialog" autoScale="true"/>
+				<group id="Groupe_1" label="Archives Editor" autoScale="true" insertBeforeMso="GroupStyles">
+					<box id="box1" boxStyle="horizontal">
+						<splitButton id="SetTags">
+							<menu>
+								<button id="stStyle" label="Set style"	onAction="rbSetTagsStyle" screentip="Set tag style - rbSetTagsStyle"/>
+								<button id="stGener" label="Generate"	onAction="rbGenerate"     screentip="Generate HTML for Arbre, Carte, Frise - rbGenerate" />
+								<button id="stLinks"   label="Hyperlinks"	onAction="rbHyperlinks"   screentip="Check and mark hyperlinks - rbHyperlinks" />
+								<button id="stFontTa" label="Font to Tags" onAction="rbFontToTags" screentip="HTMLize word font cha: italic, bold, superscript - rbFontToTags" />
+								<button id="stClean" label="Clean" onAction="rbClean" screentip="Add non-breaking spaces, normalise  quotes, clean trailing spaces - rbclean" />
+							</menu>
+						</splitButton >
+						<button id="Principal"  	screentip="Compile files - Principal" imageMso="AccessRefreshAllLists" size="normal" onAction="Principal" />
+						<button id="Build"	    	screentip="Compile selected pages - rbBuild" imageMso="DocumentPanelTemplate" size="normal" onAction="rbBuild" />
+						<button id="Go_logexec"		screentip="Goto Log exécution   - rbGotoBM" 	imageMso="FormulaMoreFunctionsMenu" size="normal" onAction="rbGotoBM" />
+						<button id="Go_insertion"	screentip="Goto Insertion point - rbGotoBM" 	imageMso="FormulaEvaluate" size="normal" onAction="rbGotoBM" />
+						<button id="SplitWindow"	screentip="Split Window and Display current document - rbSplitWindow" size="normal" imageMso="CreateFormWithMultipleItems" onAction="rbSplitWindow" />
+						<button id="cDocSave"	    screentip="Save selected cDocuments - rbJpgSave" size="normal" imageMso="FileSave" onAction="rbJpgSave" />
+						<splitButton id="SPDisp_un">
+							<menu>
+								<button id="Disp_"      	label="Display Th"	 onAction="rbThumbDisplay" screentip="Display thumb - rbThumbDisplay" />
+								<button id="Disp_un"    	label="UnDisp Th"    onAction="rbThumbDisplay" screentip="Remove displayed thumb - rbThumbDisplay" />
+								<button id="Edit_jpg"     	label="Edit jpg"	 onAction="rbEdit" 		   screentip="Edit image file - rbEdit" />
+								<button id="Open_dir"     	label="Open dir"	 onAction="rbOpen" 		   screentip="Open directory - rbOpen" />
+								<button id="BAddJpg"    	label="Add jpg"      onAction="rbJpgAdd"   	   screentip="Add JPG file - rbJpgAdd" />
+								<button id="BdelJpg"    	label="Del jpg"      onAction="rbJpgDel"	   screentip="Del JPG file - rbJpgDel" />
+							</menu>
+						</splitButton >
+						<splitButton id="Param">
+							<menu>
+								<button id="param_XMLtoWord" tag="xmlp" label="XML to word"   onAction="rbXmlPart" screentip="Display XML from Word - rbXmlPart" />
+								<button id="param_filetoXML" tag="xmlp" label="file to XML"   onAction="rbXmlPart" screentip="Display XML from file .xml - rbXmlPart"/>
+								<button id="param_WordtoXML" tag="xmlp" label="Word to XML"   onAction="rbXmlPart" screentip="Load XML displayed in Word - rbXmlPart"/>
+								<button id="param_createrep" tag="xmlp" label="new page"      onAction="rbXmlPart" screentip="Create new rep and familly if needed - rbXmlPart"/>
+								<button id="param_deleterep" tag="xmlp" label="delete page"   onAction="rbXmlPart" screentip="Delete rep - rbXmlPart"/>
+								<button id="param_renamerep" tag="xmlp" label="rename page"   onAction="rbXmlPart" screentip="Rename rep - rbXmlPart"/>
+								<button id="param_gotoXML"   tag="xmlp" label="goto node XML" onAction="rbXmlPart" screentip="Goto XML entry for this document - rbXmlPart"/>
+								<button id="param_lock"      tag="xmlp" label="page hidden"   onAction="rbXmlPart" screentip="Set page invisible as local page - rbXmlPart"/>
+								<button id="param_pencil"    tag="xmlp" label="page edit"     onAction="rbXmlPart" screentip="Create a page copy as local page - rbXmlPart"/>
+								<button id="param_publish"   tag="xmlp" label="page publish"  onAction="rbXmlPart" screentip="Publish page and move from local page - rbXmlPart"/>
+								<button id="param_wrench"    tag="xmlp" label="page wrench"   onAction="rbXmlPart" screentip="Add the wrench sign to indicate in progress - rbXmlPart"/>
+								<button id="param_setdate"   tag="xmlp" label="set date"      onAction="rbXmlPart" screentip="Set Mise à jour date to Now - rbXmlPart"/>
+							</menu>
+						</splitButton>
+					</box >
+					<box id="box3" boxStyle="horizontal">
+						<splitButton id="SPL_div">
+							<menu>
+								<button id="bqC" tag="citation"  label="citation" screentip="Call rbTagDiv, barre grise à gauche" onAction="rbTagDiv" />
+								<button id="bqA" tag="blockquote hubert"  label="blockquote hubert" 	screentip="Call rbTagDiv, quotes grands caractères" onAction="rbTagDiv" />
+								<button id="foF" tag="blockquote-footer" 	  label="blockquote-footer" 	screentip="Call rbTagDiv, footer" onAction="rbTagDiv" />
+								<button id="bqB" tag="auteur"    label="auteur" screentip="Call rbTagDiv, barre couleur famille à gauche" onAction="rbTagDiv" />
+								<button id="bqD" tag="synthese"  label="synthese" screentip="Call rbTagDiv, blockquote dans le quart à droite"  onAction="rbTagDiv" />
+								<button id="diB"  tag="clearfix" label="clearfix" screentip="Call rbTagDiv, add a clearfix div" onAction="rbTagDiv" />
+								<button id="spC" tag="float-left w-25 p-2 mr-2 rounded small border" label="cartouche" 	screentip="Call rbTagDiv, span cartouche dans le quart à gauche"   onAction="rbTagDiv" />
+								<button id="diA"  tag="section-mark" label="section-mark"	screentip="Call rbTagDiv, add a section-mark line" onAction="rbTagDiv" />
+								<button id="InsertNote"  label="Insert note"  screentip="Insert a note, not included in the HTML file - rbGreenTagInsert" onAction="rbGreenTagInsert" />
+								<button id="InsertMap"   label="Insert map"   screentip="Insert a map - rbGreenTagInsert" onAction="rbGreenTagInsert" />
+								<button id="InsertTree"  label="Insert tree"  screentip="Insert a tree - rbGreenTagInsert" onAction="rbGreenTagInsert" />
+								<button id="InsertFrise" label="Insert frise" screentip="Insert a frise - rbGreenTagInsert" onAction="rbGreenTagInsert" />
+								<button id="InsertIndex" label="Insert index" screentip="Insert index as for Casimir - rbInsertIndex" onAction="rbInsertIndex" />
+							</menu>
+						</splitButton >
+						<splitButton id="Selection">
+							<menu>
+								<button id="add" 	          tag="sel" label="add grisD"  onAction="rbGrisD"   screentip="Add documents in gris selection - rbGrisD" />
+								<button id="insert"           tag="sel" label="insert grisD here"  onAction="rbGrisD"   screentip="Insert gris documents in the current point - rbGrisD" />
+								<button id="clear"            tag="sel" label="clear grisD"        onAction="rbGrisD"   screentip="Clear gris documents selection - rbGrisD" />
+								<button id="set_move"         tag="sel" label="move to folder"     onAction="rbSetName" screentip="Move documents to another directory - rbSetName" />
+								<button id="set_copy"         tag="sel" label="copy to folder"     onAction="rbSetName" screentip="Copy document in another directory - rbSetName" />
+								<button id="set_clean"        tag="sel" label="renumber all docs"  onAction="rbSetName" screentip="Reset all documents name on a full page - rbSetName" />
+								<button id="set_sequence"     tag="sel" label="set doc in seq"     onAction="rbSetName" screentip="Set documents name in sequence - rbSetName" />
+								<button id="rename_do"        tag="sel" label="rename action"      onAction="rbRename"  screentip="Do rename - rbRename" />
+							</menu>
+						</splitButton >
+						<splitButton id="Images">
+							<menu>
+								<button id="conv_th"    tag="th"	 label="conv th" 	  screentip="convert thumb"         onAction="rbWmConv" />
+								<button id="conv_web"   tag="web"   label="conv web" 	  screentip="convert web file"           onAction="rbWmConv" />
+								<button id="conv_thweb" tag="thweb" label="conv th web" screentip="convert thumb and web file" onAction="rbWmConv" />
+								<button id="com"        tag="com"   label="com"	    	screentip="add com in paramdesc - rbComTag"  onAction="rbComTag" />
+								<button id="com_none"   tag="com"   label="com none"	screentip="remove com in paramdesc - rbComTagTag"  onAction="rbComTag" />
+								<button id="rc_1"  tag="gallerie"   label="row-class gallerie" 	screentip="Photos album for this row - rbWmTag" onAction="rbWmTag" />
+								<button id="rc_3"  tag="gallerie strait" label="row-class gallerie strait" screentip="Narrlow photos album for this row - rbWmTag" onAction="rbWmTag" />
+								<button id="rc_2"  tag="blog" 	      label="row-class blog" 	screentip="Blog display for this row - rbWmTag" onAction="rbWmTag" />
+								<button id="jpg-hidden"      tag="Jpg"    	label="jpg-hidden" 			screentip="Don't insert the Jpg and text in the HTML page - rbWmTag"  onAction="rbWmTag" />
+								<button id="jpg-hidden_none" tag="Jpg" 		label="jpg-none"        	screentip="Don't insert the Jpg and text in the HTML page - rbWmTag"  onAction="rbWmTag" />
+								<button id="th-hidden"       tag="Jpg" 		label="th-hidden" 		screentip="Don't display the thumb - rbWmTag" onAction="rbWmTag" />
+								<button id="th-hidden_none"  tag="Jpg" 		label="th-none" 	screentip="Don't display the thumb - rbWmTag" onAction="rbWmTag" />
+								<button id="size-thumb"      tag="Jpg" 		label="size-thumb" 	     screentip="Displayed with thumb size and rules - rbWmTag"  onAction="rbWmTag" />
+								<button id="size-thumb_none" tag="Jpg" 		label="size-thumb none" 	screentip="Displayed with thumb size and rules - rbWmTag"  onAction="rbWmTag" />
+								<button id="wm_Archives"     tag="wm" 		label="wm Archives"  		screentip="Watermark to value or null - rbWmTag"  onAction="rbWmTag" />
+								<button id="wm_null"         tag="wm" 		label="wm null"  		screentip="Watermark to value or null - rbWmTag"  onAction="rbWmTag" />
+								<button id="wm_none"         tag="wm" 		label="wm none" 		screentip="Watermark to value or null - rbWmTag"  onAction="rbWmTag" />
+								<button id="img-float_left"  tag="img"		label="image float left" screentip="image float left - rbWmTag" onAction="rbWmTag" />
+								<button id="img-float_none"  tag="img"		label="image float none" screentip="image float right - rbWmTag" onAction="rbWmTag" />
+							</menu>
+						</splitButton >
+						<splitButton id="rbSetH">
+							<menu>						
+								<button id="ratioa"  tag="3 3/2"   label="fit 3-3/2" screentip="Set high to fit with a col:3 ratio:3/2 24x36 photo" onAction="rbSetH" />
+								<button id="ratiob"  tag="3 2/3"   label="fit 3-2/3 Portrait"	  onAction="rbSetH" />
+								<button id="ratioc"  tag="3 1/1"   label="fit 3-Carré"   		  onAction="rbSetH" />
+								<button id="ratiod"  tag="3 4/3"   label="fit 3-4/3   télévision"  onAction="rbSetH" />
+								<button id="ratioe"  tag="3 16/9"  label="fit 3-16/9  video"  	  onAction="rbSetH" />
+								<button id="ratiof"  tag="3 16/7"  label="fit 3-16/7  cinema" 	  onAction="rbSetH" />
+								<button id="ratiog"  tag="3 12/5"  label="fit 3-12/5  cinemascope" onAction="rbSetH" />
+								<button id="ratioh"  tag="3 3/1"   label="fit 3-3"    			  onAction="rbSetH" />
+								<button id="ratioi"  tag="12 16/7" label="fit 12-16/7"             onAction="rbSetH" />
+								<button id="ratioj"  tag="12 12/5" label="fit 12-12/5"             onAction="rbSetH" />
+								<button id="ratiok"  tag="12 3/1"  label="fit 12-3/1"              onAction="rbSetH" />
+
+								<button id="row1"   tag="2"   label="row-span 2"  	  onAction="rbSetH" />
+								<button id="row2" 	tag="1"   label="row-span none" onAction="rbSetH" />
+								
+								<button id="cola"   	tag="1"   label="col 1"   screentip="Set col to 1" onAction="rbSetH" />
+								<button id="colb"   	tag="2"   label="col 2"   onAction="rbSetH" />
+								<button id="colc"   	tag="3"   label="col 3"   onAction="rbSetH" />
+								<button id="cold"   	tag="4"   label="col 4"   onAction="rbSetH" />
+								<button id="cole"   	tag="5"   label="col 5"   onAction="rbSetH" />
+								<button id="colf"   	tag="6"   label="col 6"   onAction="rbSetH" />
+								<button id="colg"   	tag="7"   label="col 7"   onAction="rbSetH" />
+								<button id="colh"   	tag="8"   label="col 8"   onAction="rbSetH" />
+								<button id="coli"   	tag="9"   label="col 9"   onAction="rbSetH" />
+								<button id="colj"   	tag="10"  label="col 10"  onAction="rbSetH" />
+								<button id="colk"   	tag="11"  label="col 11"  onAction="rbSetH" />
+								<button id="coll"   	tag="12"  label="col 12"  onAction="rbSetH" />
+			
+								<button id="orig"    		label="fit original" 	       onAction="rbSetH" />
+								<button id="rbdef"  tag="def" label="24x36" screentip="Set high to fit with a col:3 ratio:3/2 24x36 photo" onAction="rbSetH" />
+							</menu>
+						</splitButton >
+						<splitButton id="gravity">
+							<menu>
+								<button id="gravity_center" 	tag="gravity" 	label="gravity"				onAction="rbGravitySet" screentip="Gravity - rbGravitySet"  />
+								<button id="gravity_north"   	tag="gravity" 	label="gravity north"		onAction="rbGravitySet" />
+								<button id="gravity_northWest"  tag="gravity" 	label="gravity northWest"	onAction="rbGravitySet" />
+								<button id="gravity_northEast"  tag="gravity" 	label="gravity northEast"	onAction="rbGravitySet" />
+								<button id="gravity_south"		tag="gravity" 	label="gravity south"		onAction="rbGravitySet" />
+								<button id="gravity_southWest"  tag="gravity" 	label="gravity southWest"	onAction="rbGravitySet" />
+								<button id="gravity_southEast" 	tag="gravity" 	label="gravity southEast"	onAction="rbGravitySet" />
+								<button id="gravity_west"   	tag="gravity" 	label="gravity west"		onAction="rbGravitySet" />
+								<button id="gravity_east"   	tag="gravity" 	label="gravity east"		onAction="rbGravitySet" />
+							</menu>
+						</splitButton >
+					</box >
+					<box id="box2" boxStyle="horizontal">
+						<splitButton id="SPL_p">
+							<menu>
+								<button id="p" 	tag="p" label="p"           onAction="rbParaSet" screentip="Set paragraph style to default - rbParaSet" />
+								<button id="p_none" tag="p" label="p none"      onAction="rbParaSet" screentip="Tag for P style to nothing - rbParaSet" />
+								<button id="c_lead" label="lead"   screentip="lead- rbClassSet" onAction="rbClassSet" />
+								<button id="c_lead_none"  label="lead none"   screentip="lead- rbClassSet" onAction="rbClassSet" />
+								<button id="c_font-weight-bold" label="font-weight-bold"   screentip="lead- rbClassSet" onAction="rbClassSet" />
+								<button id="c_font-weight-bold_none" label="font-weight-bold none"   screentip="lead- rbClassSet" onAction="rbClassSet" />
+								<button id="c_font-weight-light" label="font-weight-light"   screentip="lead- rbClassSet" onAction="rbClassSet" />
+								<button id="c_font-weight-light_none"  label="font-weight-light none"   screentip="lead- rbClassSet" onAction="rbClassSet" />
+								<button id="c_font-italic"  label="font-italic"   screentip="lead- rbClassSet" onAction="rbClassSet" />
+								<button id="c_font-italic_none"  label="font-italic none"   screentip="lead- rbClassSet" onAction="rbClassSet" />
+								<button id="c_pl-5" 	label="pl-5" screentip="Indent 40 px - rbClassSet" onAction="rbClassSet" />
+								<button id="c_pl-5_none"  label="pl-5 none"       screentip="Indent 40 px - rbClassSet" onAction="rbClassSet" />
+								<button id="c_text-center" label="text-center"   	   screentip="Center text - rbClassSet" onAction="rbClassSet" />
+								<button id="c_text-center_none" label="text-center none"  screentip="Center text - rbClassSet" onAction="rbClassSet" />
+								<button id="c_text-right"  label="text-right"   	   screentip="Right aligned text - rbClassSet" onAction="rbClassSet" />
+								<button id="c_text-right_none" label="text-right none"   screentip="Right aligned text - rbClassSet" onAction="rbClassSet" />
+							</menu>
+						</splitButton >
+						<button id="h3_" screentip="Toggle h3 tag - rbTagH" size="normal" label="h3" onAction="rbTagH" />
+						<button id="h4_" screentip="Toggle h4 tag - rbTagH" size="normal" label="h4" onAction="rbTagH" />
+						<splitButton id="UL_List">
+							<menu>
+								<button id="ul_"	tag="ul" label="ul" 			screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ul_disc" tag="ul" label="ul disk" 		screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ul_square"	tag="ul" label="ul square" 		screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ul_circle"	 tag="ul" label="ul circle" 		screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ul_none"	tag="ul" label="ul none" 		screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ol_"	tag="ol" label="ol" 			screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ol_lower-roman"		tag="ol" label="ol lower-roman" screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ol_upper-roman"		tag="ol" label="ol upper-roman" screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ol_lower-alpha"		tag="ol" label="ol lower-alpha" screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ol_upper-alpha"		tag="ol" label="ol upper-alpha" screentip="Call routine rbClassList" onAction="rbClassList" />
+								<button id="ol_lower-greek"		tag="ol" label="ol lower-greek" screentip="Call routine rbClassList" onAction="rbClassList" />
+							</menu>
+						</splitButton >
+						<splitButton id="inline_text_element">
+							<menu>
+								<button id="em"  label="em" screentip="Toggle em tag - rbTagInline" onAction="rbTagInline" />
+								<button id="abbr" label="abbr" screentip="Toggle abbr tag - rbTagInline" onAction="rbTagInline" />
+								<button id="ordinaux" tag="text-top" label="ordinaux" screentip="Toggle nombre ordinaux (1er,1re,1ers,2e,2d) - rbTagInline" onAction="rbTagInline" />
+								<button id="siècle" tag="romain" label="siècle" screentip="Toggle Siècle,Chapitre span for romain as small-caps tag - rbTagInline" onAction="rbTagInline" />
+								<button id="sup" label="sup" screentip="Toggle sup tag - rbTagInline" onAction="rbTagInline" />
+								<button id="strong" label="strong" screentip="Toggle strong tag - rbTagInline" onAction="rbTagInline" />
+								<button id="small" label="small" screentip="Toggle small tag - rbTagInline" onAction="rbTagInline" />
+								<button id="small_t" tag="text-muted" label="small text-muted" screentip="Toggle small tag - rbTagInline" onAction="rbTagInline" />
+								<button id="b" label="b" screentip="Toggle b tag - rbTagInline" onAction="rbTagInline" />
+								<button id="i"  label="i" screentip="Toggle i tag - rbTagInline" onAction="rbTagInline" />
+							</menu>
+						</splitButton >
+						<button id="Footnote" screentip="Add Footnote tag - rbTagFootnote" size="normal" imageMso="FootnoteInsert" onAction="rbTagFootnote" />
+						<button id="BLinks" screentip="Add a Blue, Green a tag, and then rely both - rbBookmarkToggle" imageMso="HyperlinkInsert" onAction="rbBookmarkToggle" />
+						<button id="BlinkRemove" screentip="Toggle a tag - rbTagA" size="normal" imageMso="HyperlinkRemove" onAction="rbTagA" />
+						<splitButton id="GoClipId">
+							<menu>
+								<button id="gc1" tag="clip"	label="clip" screentip="Goto doc from Clipboard buffer rbGoClipboard" onAction="rbGoClipboard" />
+								<button id="gc2" tag="suiv"   label="suiv" screentip="rbGoClipboard" onAction="rbGoClipboard" />
+								<button id="gc3" tag="suiv-same" label="suiv same row-class" screentip="rbGoClipboard" onAction="rbGoClipboard" />
+								<button id="gc4" tag="prev"	label="prev" screentip="rbGoClipboard" onAction="rbGoClipboard" />
+								<button id="gc5" tag="link"	label="link" screentip="rbGoClipboard" onAction="rbGoClipboard" />
+								<button id="gc6" tag="top"	label="top"  screentip="rbGoClipboard" onAction="rbGoClipboard" />
+							</menu>
+						</splitButton >
+						<button id="BM_next"		screentip="Goto next bookmark - rbGotoBM" 	imageMso="DirectRepliesTo" 				size="normal"  onAction="rbGotoBM" />
+						<button id="BM_set"			screentip="Set bookmark - rbGotoBM"			imageMso="DistributionListAddNewMember" size="normal"  onAction="rbGotoBM" />
+						<button id="BM_del"			screentip="Delete bookmark - rbGotoBM"		imageMso="DistributionListRemoveMember" size="normal"  onAction="rbGotoBM" />
+						<button id="BL_delall"		screentip="Delete all bookmarks - rbGotoBM" imageMso="DistributionListUpdateMembers" size="normal" onAction="rbGotoBM" />
+					</box >
+				</group >
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>

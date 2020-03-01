@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+	<xsl:template match="/frisedesc">
+		<div class="frise">
+			<xsl:text>&#10;</xsl:text>
+
+			<div class="siecles lead">
+				<xsl:for-each select="siecles/siecle">
+					<div>
+						<xsl:attribute name="class">
+							<xsl:value-of select="@class" />
+						</xsl:attribute>
+						<xsl:attribute name="style">
+							<xsl:value-of select="@style" />
+						</xsl:attribute>
+
+						<xsl:choose>
+							<xsl:when test="not(.='&#8230;')"> <!-- hellip ... -->
+								<span class="romain">
+									<xsl:value-of select="substring-before(.,'e')" />
+								</span>
+								<sup>
+									<xsl:value-of select="concat('e',substring-after(.,'e'))" />
+								</sup>
+							</xsl:when>
+							<xsl:otherwise>
+									&#8230;
+							</xsl:otherwise>
+						</xsl:choose>
+					</div>
+				</xsl:for-each>
+			</div>
+			<xsl:text>&#10;</xsl:text>
+
+			<xsl:call-template name="lignes" />
+
+		</div>
+		<xsl:text>&#10;</xsl:text>
+	</xsl:template>
+
+
+	<!-- ______________________________________________________________ligne_________________________________ -->
+	<xsl:template name="lignes">
+
+		<xsl:for-each select="ligne">
+			<div class="ligne">
+				<xsl:if test="@class">
+					<xsl:attribute name="class">ligne
+						<xsl:value-of select="@class" />
+					</xsl:attribute>
+				</xsl:if>
+
+				<xsl:text>&#10;</xsl:text>
+				<xsl:for-each select="*">
+					<xsl:choose>
+						<xsl:when test="@type='nom'">
+							<xsl:call-template name="nom" />
+						</xsl:when>
+
+						<xsl:when test="@type='collapse'">
+							<xsl:call-template name="collapse" />
+						</xsl:when>
+
+						<xsl:otherwise>
+							<xsl:copy-of select="node()"/>
+						</xsl:otherwise>
+
+					</xsl:choose>
+					<xsl:text>&#10;</xsl:text>
+				</xsl:for-each>
+			</div>
+			<xsl:text>&#10;</xsl:text>
+		</xsl:for-each>
+
+	</xsl:template>
+
+	<!-- __________________________________________________________________nom_____________________________ -->
+	<xsl:template name="nom">
+		<div class="nom">
+			<xsl:attribute name="class">
+				<xsl:value-of select="@class" />
+			</xsl:attribute>
+			<xsl:attribute name="style">
+				<xsl:value-of select="@style" />
+			</xsl:attribute>
+			<xsl:attribute name="title">
+				<xsl:value-of select="@title" />
+			</xsl:attribute>
+
+			<xsl:if test="@data-target">
+				<xsl:text>&#160;</xsl:text>
+				<button class="btn btn-light" type="button" data-toggle="collapse" aria-expanded="false">
+					<xsl:attribute name="title">
+						<xsl:value-of select="@titre-inclure" />
+					</xsl:attribute>
+					<xsl:attribute name="data-target">
+						<xsl:value-of select="concat('#',@data-target)" />
+					</xsl:attribute>
+					<xsl:attribute name="aria-controls">
+						<xsl:value-of select="@data-target" />
+					</xsl:attribute>
+					<i class="material-icons lien">unfold_more</i>
+				</button>
+				<xsl:text>&#10;</xsl:text>
+			</xsl:if>
+
+			<xsl:if test="@geneanet">
+				<xsl:variable name="gnom" select="@geneanet" />
+				<xsl:text>&#10;</xsl:text>
+				<a class="mdi mdi-tree" href="http://gw.geneanet.org/langau_w?lang=fr&#38;m=S&#38;n={$gnom}&#38;p=" title="Arbre de la famille {$gnom}" target="_blank"></a>
+				<xsl:text>&#10;</xsl:text>
+			</xsl:if>
+
+			<xsl:if test="@male">
+				<xsl:variable name="male" select="@male" />
+				<span class="pr-2">
+					<xsl:call-template name="repeat">
+						<xsl:with-param name="count" select="$male" />
+					</xsl:call-template>
+				</span>
+			</xsl:if>
+
+			<xsl:copy-of select="node()"/>
+
+		</div>
+	</xsl:template>
+
+	<xsl:template name="repeat"> <!-- pour ajouter l'icone male autant de fois que demandé en mode récursif -->
+		<xsl:param name="count" select="0" />
+		<xsl:if test="$count">
+			<span class="mdi mdi-human-male"></span>
+			<xsl:call-template name="repeat">
+				<xsl:with-param name="count" select="$count - 1" />
+			</xsl:call-template>
+		</xsl:if>
+	</xsl:template>
+
+	<!-- ____________________________________________________________________collapse___________________________ -->
+	<xsl:template name="collapse">
+		<xsl:variable name="sty" select="@style" />
+
+		<!-- 		<div class="clearfix"></div> -->
+		<xsl:text>&#10;</xsl:text>
+		<div class="collapse clearfix">
+			<xsl:attribute name="id">
+				<xsl:value-of select="@id" />
+			</xsl:attribute>
+			<xsl:text>&#10;</xsl:text>
+
+			<xsl:call-template name="lignes" />
+
+		</div>
+		<xsl:text>&#10; </xsl:text>
+
+	</xsl:template>
+
+</xsl:stylesheet>
