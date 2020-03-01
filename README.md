@@ -39,7 +39,7 @@ Use Word to view the document and transcribe the text while benefiting from Word
 
 ![Image carte](https://github.com/langautier/family-archives-cms/blob/master/Creation%20Fichier%20HTM.png)
 
-## An XML file associated with each scanned document
+## XML file associated with each scanned document
 
 The trick is not to use a database, but only files in directories and to associate with each scanned document an XML file giving everything there is to know about it.
 
@@ -61,19 +61,19 @@ All the information to build the photo gallery are embedded within the XML file 
 # Site description
 ```HTML
 <menu>
-<famillemenu>Pebernad</famillemenu>
-<color>#F3E0F3 Magenta DarkMagenta Color</color>
-<prefix>P</prefix>
-<niv0>
-<libniv0>Pebernad de Langautier</libniv0>
-<famille>Pebernad de Langautier</famille>
-<niv1>
-<rep>Accueil</rep>
-<lib>Pebernad de Langautier</lib>
-<titre>Pebernad</titre>
-<miseajour><note><date>2018-10-30</date><content>Refonte de la page à l'occasion de l'introduction de la frise à tiroir</content></note><note><date>2015-02-23</date><content>Création de la page</content></note></miseajour>
-<prefix>Al2</prefix>
-<linkto>Pebernad de Langautier\Georges, Pebernad de Langautier\Bernard, Pebernad de Langautier\Guillaume, Pebernad de Langautier\PierreGermain, Pebernad de Langautier\Jean, Pebernad de Langautier\PierreGermainAntoine, Pebernad de Langautier\JeanPierre, Pebernad de Langautier\Jules, Pebernad de Langautier\Albert, Pebernad de Langautier\Particule, Pebernad de Langautier\Louis</linkto>
-</niv1>
-  </menu>
+  <famillemenu>Pebernad</famillemenu>
+  <color>#F3E0F3 Magenta DarkMagenta Color</color>
+  <prefix>P</prefix>
+    <niv0>
+      <libniv0>Pebernad de Langautier</libniv0>
+      <famille>Pebernad de Langautier</famille>
+      <niv1>
+        <rep>Accueil</rep>
+        <lib>Pebernad de Langautier</lib>
+        <titre>Pebernad</titre>
+        <miseajour><note><date>2018-10-30</date><content>Refonte de la page à l'occasion de l'introduction de la frise à tiroir</content></note><note><date>2015-02-23</date><content>Création de la page</content></note></miseajour>
+        <prefix>Al2</prefix>
+      </niv1>
+    </niv0>
+</menu>
  ```
