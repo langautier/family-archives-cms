@@ -62,7 +62,7 @@ All the information to build the photo gallery are embedded within the XML file 
 ![Image carte](https://github.com/langautier/family-archives-cms/blob/master/Gallery%20XML.png)
 
 # Site description
-All the information to build the site are provided through an XML file. Page contents are build from all XML files found in the directory associated with the page (<rep> tag)
+All the information to build the site are provided through an XML file. Page contents are build from all XML files found in the directory associated with the page (&lt;rep&gt; tag)
 
 ```HTML
 <menu>
