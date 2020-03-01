@@ -18,11 +18,12 @@ The timeline is a great way to tell the story of the family. The fold-out menu a
 ![Image frises](https://github.com/langautier/family-archives-cms/blob/master/Frises.png)
 
 ## Photos gallery
-This responsive photo gallery is built from CSS grid. It allows having photos from differents width or height.
+This responsive photo gallery is built from CSS grid. It allows having photos from differents width or height and it relies on the browser to order the photos to fully cover all the space.
 
 ![Image frises](https://github.com/langautier/family-archives-cms/blob/master/Gallery.png)
 
 ## Google pages with my own marks
+Just provide a text and GPS coordinate and the CMS will produce the appropriate Google code.
 
 ![Image carte](https://github.com/langautier/family-archives-cms/blob/master/Carte.png)
 
