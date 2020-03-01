@@ -18,7 +18,7 @@ The timeline is a great way to tell the story of the family. The fold-out menu a
 ![Image frises](https://github.com/langautier/family-archives-cms/blob/master/Frises.png)
 
 ## Photos gallery
-This responsive photo gallery is built from CSS grid
+This responsive photo gallery is built from CSS grid. It allows having photos from differents width or height.
 
 ![Image frises](https://github.com/langautier/family-archives-cms/blob/master/Gallery.png)
 
@@ -35,7 +35,9 @@ Our CMS allows:
 
 ## Transcribe scanned documents into text
 
-Use Word to view the document and transcribe the text while benefiting from Word's spell checker
+Use Word to view the document and transcribe the text with the dual display managed by Word and also benefiting from Word's spell checker.
+
+You will not have to manage the HTML code either, Word will do it for you by transforming your layout into HTML instructions
 
 ![Image carte](https://github.com/langautier/family-archives-cms/blob/master/Creation%20Fichier%20HTM.png)
 
