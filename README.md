@@ -1,14 +1,38 @@
-# What to do with all these old documents kept in families
-As a result, please have a look in [Archives Langautier](http:langautier.free.fr), and below the main functionalities needed.
-## Publish documents and photos in a same page
+# Need a CMS to make available old family's letters and photos
+
+Web pages are ultimately the best way:
+- to provide hundred pages as a mix of scanned documents, text and photos
+- to gradually build it up over years
+
+As a result, please have a look in [Archives Langautier](http:langautier.free.fr)
+
+## Documents as image/text and photos in a same page
+
+Transcription of a daily page next to the page scan and a photo relating to the text
+
 ![Image doc](https://github.com/langautier/family-archives-cms/blob/master/Documents.png)
+
 ## Timeline
+The timeline is a great way to tell the story of the family. The fold-out menu allows you to open and close the details of a related family.
+
 ![Image frises](https://github.com/langautier/family-archives-cms/blob/master/Frises.png)
+
 ## Photos gallery
+This responsive photo gallery is built from CSS grid
+
 ![Image frises](https://github.com/langautier/family-archives-cms/blob/master/Gallery.png)
+
 ## Google pages with my own marks
+
 ![Image carte](https://github.com/langautier/family-archives-cms/blob/master/Carte.png)
+
 # VBA/Word based CMS Application
+Our CMS allows:
+- to associate text with each document
+- to build pages from a collection of documents made of images and text
+- to group the pages to make up the story of the individuals within their families
+- allow navigation in the pages associated with each family
+
 ## Transcribe scanned documents into text
 
 Use Word to view the document and transcribe the text while benefiting from Word's spell checker
