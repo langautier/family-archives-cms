@@ -53,6 +53,11 @@ Html\Tailleur\1915\V0f_190821-2139_086.jpg=	Nam:|
 <p class="pl-5">Prosper</p>
 </float>
 ```
+# XML file associated with each photo
+All the information to build the photo gallery are embedded within the XML file associated with the photo. Button command allows to modify it without having to compute thumb size or aspect ratio needed to properly build the wall.
+
+![Image carte](https://github.com/langautier/family-archives-cms/blob/master/Gallery%20XML.png)
+
 # Site description
 ```HTML
 <menu>
